@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="ISO8859-1"?>
+
+<PED Tipo="RELATORIOFINALPED" CodigoEmpresa="6631">
+
+	<PD_RelFinalBase>
+		<CodProjeto>??</CodProjeto>
+		<ArquivoPDF>??</ArquivoPDF>
+		<DataIniODS>??</DataIniODS>
+		<DataFimODS>??</DataFimODS>
+		<ProdPrev>S</ProdPrev>
+		<ProdJust>Texto</ProdJust>
+		<ProdEspTec>O produto principal do projeto é um protótipo de um robô
+			para monitoramento e mapeamento em operações de Stoplogs. O protótipo
+			pode ser dividido em 4 subsistemas: unidade de controle submarino,
+			unidade de controle de superfície, software e interface de controle.
+			A unidade de controle submarina é constituída de uma eletrônica
+			embarcada encapsulada em um vaso de pressão, um sonar, uma unidade
+			Pan & Til, um sensor de pressão, um inclinometro e 4 sensores
+			indutivos. A unidade de controle de superfície é constituída de uma
+			eletrônica embarcada encapsulada em uma pelican case e um umbilical
+			de conexão entre sistema de controle da superfície e submarina. A
+			interface de usuário funciona em um tablet com um aplicativo de
+			interface do projeto, se comunicando via Wi-Fi com a unidade de
+			controle de superfície. O software realiza as funções de controle,
+			processamentos e comunicação entre os diferentes subsistemas.
+		</ProdEspTec>
+		<TecPrev>
+			S
+		</OrigPrev>
+			<TecJust>Texto</TecJust>
+			<TecDesc>O sistema de monitoramento é constituído dos sensores de
+				inclinação, profundidade e proximidade que são instalados na viga
+				pescadora. Os sensores são suficientes para monitorar todas as
+				etapas do processo de içamento submarino de stoplogs pela viga. As
+				informações são processadas e transmitidas para a interface de
+				controle na superfície. Algoritmos de controle acompanham o
+				processo, levantando alarmes em caso de falhas na operação. O
+				sistema de mapeamento é constituído por um sonar acoplado a uma
+				unidade de pan & til. Estes sensores são instalados na viga
+				pescadora para realizar o mapeamento da região do vão do Stoplog. Os
+				ecos das ondas sonoras emitidas pelo sonar são modeladas em um grid
+				de ocupação probabilístico e filtrados através de um filtro de
+				partícula para determinar qual é o mapa mais provável da região. A
+				reconstrução 3D do ambiente possibilita o operador identificar
+				possíveis detritos submersos no vão.
+			</TecDesc>
+			<AplicPrev>S</AplicPrev>
+			<AplicJust>
+			</AplicJust>
+			<AplicFnc>Um operador da ESBR inseriu e removeu os stoplog, enquanto
+				visualizava a operação a partir do tablet instalado na cabine de
+				controle do guindaste. O sistema funcionou como esperado,
+				monitorando em tempo real todas as etapas da operação. Durante os
+				testes não houve ocorrência de uma falha operacional. Logo, as
+				condições de falhas foram forçadas em testes a seco. O sistema de
+				monitoramento acusou as falhas operacionais simuladas, levantando
+				alarmes visuais e sonoros. Medições foram feitas em 3 profundidades
+				diferentes e em vários ângulos de pan & tilt, fornecendo pontos de
+				vista distintos de uma mesma região. Devido ao alto grau de
+				sedimentação flutuando no rio Madeira, local do experimento, o sonar
+				apresentou um nível de ruído maior do que o padrão. A incerteza
+				alcançada no mapeamento foi de 200mm. Nenhum detrito maior do que
+				200mm de diâmetro foi detectado na soleira ou entorno do vão do
+				stoplog. A configuração e uso do software de inspeção está restrito
+				a use por especialista.
+			</AplicFnc>
+			<AplicAbrang> Para o desenvolvimento deste projeto foi realizado uma
+				ampla pesquisa bibliográfica acompanhada por um levantamento
+				detalhado dos equipamentos disponíveis no mercado além de várias
+				iterações de projeto e testes com protótipos em campo. O foco foi
+				alcançar um equilíbrio que garanta robustez para operar
+				repetidamente em um ambiente hostil, implantação fácil e rápida para
+				garantir a usabilidade do sistema, interface de usuário intuitiva
+				para reduzir a formação necessária e aplicabilidade abrangente. ?O
+				projeto representa uma inovação para a prática atual de operações
+				com stoplogs, sendo aplicável a qualquer usina que utilize viga de
+				içamento. A viga é um equipamento padrão em todas hidroelétricas de
+				médio e grande porte no Brasil e no exterior, sendo utilizadas em
+				todas as paradas de máquina que envolvem ensecamento.
+			</AplicAbrang>
+			<AplicAmbito>Stoplogs são barreiras modulares que são empilhadas a
+				jusante e montande do circuito hidráulico, permitindo o isolamento e
+				drenagem da região para manutenção. Um operador empilhas os stoplogs
+				no vao utilizando um guindaste equipado com uma viga pescadora. O
+				sistema do ROSA - Monitoramento possui um conjunto de sensores para
+				instrumentar a viga e prover as informações necessárias para que a
+				operação seja otimizada, o sistema é focado apenas na otimização e
+				redução dos erros de operação de pesca de stoplogs. O sistema de
+				mapeamento foi desenvolvido visando a identificação de detritos em
+				vão de Stoplogs, mas a técnica pode ser expandida e aplicada para
+				mapear outras regiões submersas, detectando, por exemplo, desgaste
+				no concreto por cavitação.
+			</AplicAmbito>
+			<TxDifTec>Texto</TxDifTec>
+
+	</PD_RelFinalBase>
+
+
+	<PD_EquipeEmp>
+		<!-- Empresas Financiadoras -->
+		<Empresas>
+			 
+			<!-- ESBR -->
+			<Empresa>
+				<CodEmpresa>6631</CodEmpresa>
+				 
+				<TipoEmpresa>P</TipoEmpresa>
+				 
+				<!-- Equipe ESBR -->
+				<Equipe>
+					 
+					<EquipeEmpresa>
+						 
+						<NomeMbEqEmp>Breno Bellinati de Carvalho</NomeMbEqEmp>
+						<CpfMbEqEmp>00035241160</CpfMbEqEmp>
+						<TitulacaoMbEqEmp>SU</TitulacaoMbEqEmp>
+						<FuncaoMbEqEmp>GE</FuncaoMbEqEmp>
+						<HhMbEqEmp>Moeda</HhMbEqEmp>
+						<MesMbEqEmp>Texto</MesMbEqEmp>
+						<HoraMesMbEqEmp>Texto</HoraMesMbEqEmp>
+
+						
+						<NomeMbEqEmp>Texto</NomeMbEqEmp>
+						<CpfMbEqEmp>Número</CpfMbEqEmp>
+						<TitulacaoMbEqEmp>Código</TitulacaoMbEqEmp>
+						<FuncaoMbEqEmp>Código</FuncaoMbEqEmp>
+						<HhMbEqEmp>Moeda</HhMbEqEmp>
+						<MesMbEqEmp>Texto</MesMbEqEmp>
+						<HoraMesMbEqEmp>Texto</HoraMesMbEqEmp>
+						 
+
+					</EquipeEmpresa>
+					 
+				</Equipe>
+				 
+			</Empresa>
+			 
+			<!-- Fim Equipe ESBR -->
+		</Empresas>
+		 
+		<!-- Fim Equipe Financiadoras -->
+	</PD_EquipeEmp>
+
+
+	<PD_EquipeExec>
+
+		<!--Executoras -->
+		<Executoras>
+			 
+			<!-- UFRJ -->
+			<Executora>
+				 
+				<CNPJExec>7206099900175</CNPJExec>
+				 
+				<RazaoSocialExec>Fundação Coordenação de Projetos, Pesquisas e
+					Estudos Tecnológicos - COPPETEC</RazaoSocialExec>
+				 
+				<UfExec>RJ</UfExec>
+				 
+				<Equipe>
+					 
+					<EquipeExec>
+						<NomeMbEqExec>Ramon Romankevicius Costa</NomeMbEqExec>
+						<BRMbEqExec>S</BRMbEqExec>
+						<DocMbEqExec>31003664687</DocMbEqExec>
+						<TitulacaoMbEqExec>DO</TitulacaoMbEqExec>
+						<FuncaoMbEqExec>CO</FuncaoMbEqExec>
+						<HhMbEqExec>0,00</HhMbEqExec>
+						<MesMbEqExec>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</MesMbEqExec>
+						<HoraMesMbEqExec>16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16</HoraMesMbEqExec>
+
+						<NomeMbEqExec>Ramon Romankevicius Costa</NomeMbEqExec>
+						<BRMbEqExec>S</BRMbEqExec>
+						<DocMbEqExec>31003664687</DocMbEqExec>
+						<TitulacaoMbEqExec>DO</TitulacaoMbEqExec>
+						<FuncaoMbEqExec>CO</FuncaoMbEqExec>
+						<HhMbEqExec>0,00</HhMbEqExec>
+						<MesMbEqExec>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</MesMbEqExec>
+						<HoraMesMbEqExec>16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16</HoraMesMbEqExec>
+						
+						<NomeMbEqExec>Ramon Romankevicius Costa</NomeMbEqExec>
+						<BRMbEqExec>S</BRMbEqExec>
+						<DocMbEqExec>31003664687</DocMbEqExec>
+						<TitulacaoMbEqExec>DO</TitulacaoMbEqExec>
+						<FuncaoMbEqExec>CO</FuncaoMbEqExec>
+						<HhMbEqExec>0,00</HhMbEqExec>
+						<MesMbEqExec>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</MesMbEqExec>
+						<HoraMesMbEqExec>16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16</HoraMesMbEqExec>
+						
+						<NomeMbEqExec>Ramon Romankevicius Costa</NomeMbEqExec>
+						<BRMbEqExec>S</BRMbEqExec>
+						<DocMbEqExec>31003664687</DocMbEqExec>
+						<TitulacaoMbEqExec>DO</TitulacaoMbEqExec>
+						<FuncaoMbEqExec>CO</FuncaoMbEqExec>
+						<HhMbEqExec>0,00</HhMbEqExec>
+						<MesMbEqExec>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</MesMbEqExec>
+						<HoraMesMbEqExec>16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16</HoraMesMbEqExec>
+						
+						<NomeMbEqExec>Ramon Romankevicius Costa</NomeMbEqExec>
+						<BRMbEqExec>S</BRMbEqExec>
+						<DocMbEqExec>31003664687</DocMbEqExec>
+						<TitulacaoMbEqExec>DO</TitulacaoMbEqExec>
+						<FuncaoMbEqExec>CO</FuncaoMbEqExec>
+						<HhMbEqExec>0,00</HhMbEqExec>
+						<MesMbEqExec>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</MesMbEqExec>
+						<HoraMesMbEqExec>16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16</HoraMesMbEqExec>
+						
+						<NomeMbEqExec>Ramon Romankevicius Costa</NomeMbEqExec>
+						<BRMbEqExec>S</BRMbEqExec>
+						<DocMbEqExec>31003664687</DocMbEqExec>
+						<TitulacaoMbEqExec>DO</TitulacaoMbEqExec>
+						<FuncaoMbEqExec>CO</FuncaoMbEqExec>
+						<HhMbEqExec>0,00</HhMbEqExec>
+						<MesMbEqExec>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</MesMbEqExec>
+						<HoraMesMbEqExec>16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16</HoraMesMbEqExec>
+						
+						<NomeMbEqExec>Ramon Romankevicius Costa</NomeMbEqExec>
+						<BRMbEqExec>S</BRMbEqExec>
+						<DocMbEqExec>31003664687</DocMbEqExec>
+						<TitulacaoMbEqExec>DO</TitulacaoMbEqExec>
+						<FuncaoMbEqExec>CO</FuncaoMbEqExec>
+						<HhMbEqExec>0,00</HhMbEqExec>
+						<MesMbEqExec>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</MesMbEqExec>
+						<HoraMesMbEqExec>16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16</HoraMesMbEqExec>
+						
+						<NomeMbEqExec>Ramon Romankevicius Costa</NomeMbEqExec>
+						<BRMbEqExec>S</BRMbEqExec>
+						<DocMbEqExec>31003664687</DocMbEqExec>
+						<TitulacaoMbEqExec>DO</TitulacaoMbEqExec>
+						<FuncaoMbEqExec>CO</FuncaoMbEqExec>
+						<HhMbEqExec>0,00</HhMbEqExec>
+						<MesMbEqExec>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</MesMbEqExec>
+						<HoraMesMbEqExec>16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16</HoraMesMbEqExec>
+						
+
+					</EquipeExec>
+				</Equipe>
+			</Executora>
+		</Executoras>
+		<!-- Fim Equipe UFRJ -->
+	</PD_EquipeExec>
+
+
+	<PD_Etapas>
+		...
+	</PD_Etapas>
+
+
+	<PD_Recursos>
+		...
+	</PD_Recursos>
+
+
+	<PD_Resultados>
+
+		<PD_ResultadosCP>
+			...
+		</PD_ResultadosCP>
+
+		<PD_ResultadosCT>
+			...
+		</PD_ResultadosCT>
+
+		<PD_ResultadosSA>
+			...
+		</PD_ResultadosSA>
+
+		<PD_ResultadosIE>
+			...
+		</PD_ResultadosIE>
+
+	</PD_Resultados>
+
+
+</PED>

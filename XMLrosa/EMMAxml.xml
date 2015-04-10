@@ -1,0 +1,352 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<PED 
+    Tipo="PROJETOPED"
+    CodigoEmpresa="6631"
+    >
+<PD_ProjetoBase> 
+   <AvIniANEEL>N</AvIniANEEL> 
+   <Titulo>EMMA – Metodologia para revestimento robótico de Turbinas In Situ</Titulo> 
+   <Duracao>14</Duracao> 
+   <Segmento>G</Segmento> 
+   <CodTema>OP</CodTema> 
+   <OutroTema>Operacao de Sistemas de Energia Eletrica</OutroTema>
+   <Subtemas> 
+      <Subtema>
+         <CodSubtema>OP0X</CodSubtema> 
+         <OutroSubtema>Robotica para a Industria de Energia Eletrica</OutroSubtema> 
+      </Subtema> 
+   </Subtemas> 
+   <FaseInovacao>PA</FaseInovacao> 
+   <TipoProduto>CM</TipoProduto> 
+   
+<DescricaoProduto>
+   O projeto resultará no conceito de um robô compacto capaz de operar dentro do circuito
+hidráulica e aplicar revestimento contra corrosão, erosão, abrasão e cavitação em pás de turbinas de
+hidrelétricas, assim como, na metodologia de aplicação do revestimento.
+</DescricaoProduto> 
+   
+<Motivacao> 
+Desgastes por corrosão, erosão, abrasão e cavitação em pás de turbinas de hidroelétricas resultam
+em perda do perfil hidráulico, reduzindo assim a eficiência de geração. O desgaste reduz
+também a vida útil da turbina, o tempo de operação entre paradas de manutenção, assim
+como, aumentam os custos de manutenção e o tempo necessário de parada de máquina para
+a realização do reparo. Logo, significa um impacto econômico significativo na operação.
+A aplicação de revestimento aumenta a resistência do material contra os desgastes,
+custando em torno de 20% do valor de uma peça nova e representando um aumento da vida
+útil em mais de 300%. Entretanto, dados as limitações da tecnologia atual, só é possível aplicar
+o revestimento em bancada, logo, antes da instalação das pás. O desenvolvimento
+tecnológico que possibilite reaplicar a camada de revestimento dentro do circuito hidráulico
+resultaria em um ganho significativo na geração e redução dos custos de operação.
+</Motivacao> 
+   
+<Originalidade>
+Não existe nenhuma solução ou estudo realizado sobre a aplicação de revestimento dentro do circuito
+hidráulico sem desinstalar as pás da turbina. A aplicação de revestimento para proteção contra abrasão,
+corrosão, erosão e cavitação em peça de turbina de hidrelétrica é realizada atualmente com um braço robótico
+comercial, entretanto, a tecnologia atual é limitada a trabalho em bancada com a peça desinstalada. O
+desafio de realizar o trabalho de revestimento dentro do circuito hidráulico se dá pela dimensão da
+escotilha de acesso, que limita o tamanho do robô, pelo posicionamento do robô com relação a pá da
+turbina, que se encontra a alguns metros do solo, e pelo controle de temperatura e humidade necessários.
+Logo, a pesquisa básica dirigida para desenvolver o conceito do robô e a metodologia para aplicação de
+revestimento contra abrasão, corrosão, erosão e cavitação em peças de turbina de hidrelétrica já instaladas é
+inovadora no setor elétrico brasileiro e é um avanço com relação ao estado da arte atual de realizar o
+mesmo apenas em bancada.
+</Originalidade> 
+   
+<Aplicabilidade>
+   O sistema desenvolvido no projeto será constituido por um robô compacto capaz de se transportado
+através da escotilha de acesso, ser instalado na pá da turbina tipo Kaplan ou Bulbo e executar o
+revestimento da peça. Logo, o âmbito de aplicação são as unidade de geração hidráulica Brasileiras.
+A restrição para aplicação da tecnologia é apenas a restrição do acesso do equipamento ao circuito
+hidráulico, ou seja, o tamanho da escotilha de acesso. A variação de tamanho da turbina e circuito
+hidráulico não afetará a utilização do sistema, pois, o mesmo pode ser montado em múltiplas posições
+para cobrir uma turbina de maiores dimensões ou montado em apenas uma posição única para turbinas de
+menores dimensões. A escotilha de acesso possui um tamanho padrão de aproximadamente 1 metro de
+diâmetro. Logo, o sistema terá abrangência nacional, podendo beneficiar pequenas até grandes centrais
+hidroelétricas.
+</Aplicabilidade> 
+   
+<Relevancia> 
+   A matriz geradora Brasileira é constituída em sua maioria por geração hidráulica, com um grande
+número de centrais em rios tipos corredeiras que possuem reservatórios pequenos. Neste tipo de rio não
+há tempo de sedimentação das partículas sólidas na água, essas partículas sólidas, mesmo em quantidades
+pequenas, geram um elevado nível de desgaste por erosão. Logo, o projeto é de relevância para o sector
+elétrico e para a nação, pois aumenta a eficiência da matriz energética Brasileira, aumenta a
+disponibilidade da máquina para geração e reduz os custos de manutenção, representando uma melhor
+econômica e social.Ao longo dos 14 meses do projeto é esperado o início de 1 dissertações de doutorado e conclusão 2
+teses de mestrado, assim como uma produção científica de 3 artigos publicados em revistas/workshops
+internacionais/nacionais de relevância. Apresentado assim uma relevância na criação da massa crítica
+nacional.
+</Relevancia> 
+
+<RazoabCustos>
+   Atualmente, após a instalação da unidade geradora, não existe método disponível para proteger a
+ogiva geradora contra os desgastes de sua utilização. Sendo, infelizmente, a recuperação sempre o
+caminho e isso pode ser estimado entre 90 e 120 dias de UG parada. A frequência de paradas de
+recuperação variam dependendo da idade da unidade geradora, material, tipo de bacia e etc. A única
+certeza é que um dia será necessário. A aplicação de revestimento pode ser realizada durante as paradas
+planejadas, sem perda de tempo de geração.
+De acordo com a tabela de situação de cavitação em turbina hidráulica no Brasil (Out/97), em
+média 5 unidades geradoras apresentaram cavitação a cada 24.071 horas de operação (2,7 anos), das 36
+instalações analisadas. Logo, a aplicação do revestimento in situ significaria em um aumento da
+disponibilidade de geração de 600 dias a cada 2,7 anos, considerando turbinas de 75 MW de potencia,
+seria equivalente a 1.080.000 MW.
+</RazoabCustos> 
+
+<PesqCorrelata>
+
+   Google Schoolar, IEE, Field Robotics, ... : nenhum resultado foi encontrado na revisão
+bibliográfica para uma solução robótica de aplicação de revestimento em turbinas hidroelétrica já
+instaladas no Brasil e no exterior. A pesquisa revela apenas o desenvolvimento de robôs para
+reparos in situ da turbina, capazes de realizar soldagem, em exemplo RoboTurb da UFSC e Scompi
+da Hydro-Quebec. Ambos não aplicáveis ao problema de revestimento devido as limitações do
+manipulador robótico nos sistemas.
+INPI: Nenhuma patente foi encontrada que se enquadre como o produto objeto da pesquisa
+e desenvolvimento aqui proposta.
+ANEEL: nenhum resultado foi encontrado na base de dados da ANEEL relevante a um robô
+para revestimento, sendo os resultados Robô inspeciona e corrige problemas em linhas de
+transmissão; Sistema Multi-robôs Aéreos para Inspeção de Linhas e Robô para Inspeção Visual de
+caldeiras.
+</PesqCorrelata> 
+
+</PD_ProjetoBase> 
+
+<!-- Equipe  -->
+<PD_Equipe> 
+   <!-- Empresas Financiadoras  -->
+   <Empresas> 
+      <!-- ESBR  -->
+      <Empresa>
+         <CodEmpresa>6631</CodEmpresa> 
+         <TipoEmpresa>P</TipoEmpresa> 
+         <!-- Equipe ESBR   -->
+         <Equipe> 
+            <EquipeEmpresa> 
+              
+               <NomeMbEqEmp>Breno Bellinati de Carvalho</NomeMbEqEmp> 
+               <CpfMbEqEmp>00035241160</CpfMbEqEmp> 
+               <TitulacaoMbEqEmp>SU</TitulacaoMbEqEmp> 
+               <FuncaoMbEqEmp>GE</FuncaoMbEqEmp> 
+
+               <NomeMbEqExec> A definir </NomeMbEqExec>                       
+               <DocMbEqExec>00000000000</DocMbEqExec> 
+               <TitulacaoMbEqExec>TE</TitulacaoMbEqExec>
+               <FuncaoMbEqExec>AT</FuncaoMbEqExec> 
+
+               <NomeMbEqExec> A definir </NomeMbEqExec>                       
+               <DocMbEqExec>00000000000</DocMbEqExec> 
+               <TitulacaoMbEqExec>TE</TitulacaoMbEqExec>
+               <FuncaoMbEqExec>AT</FuncaoMbEqExec> 
+            
+            </EquipeEmpresa> 
+         </Equipe> 
+      </Empresa> 
+      <!-- Fim Equipe ESBR   -->
+   </Empresas> 
+   <!-- Fim Equipe Financiadoras  -->
+
+   <!--Executoras  -->
+   <Executoras> 
+         <!-- UFRJ   -->
+         <Executora> 
+             <CNPJExec>7206099900175</CNPJExec> 
+             <RazaoSocialExec>Fundação Coordenação de Projetos, Pesquisas e Estudos Tecnológicos - COPPETEC</RazaoSocialExec> 
+            <UfExec>RJ</UfExec> 
+            <Equipe> 
+               <EquipeExec> 
+
+                  <NomeMbEqExec>Ramon Romankevicius Costa</NomeMbEqExec>  
+                  <DocMbEqExec>31003664687</DocMbEqExec> 
+                  <TitulacaoMbEqExec>DO</TitulacaoMbEqExec> 
+                  <FuncaoMbEqExec>CO</FuncaoMbEqExec> 
+               
+                  <NomeMbEqExec>Julia Campana</NomeMbEqExec> 
+                   <DocMbEqExec>10251769798</DocMbEqExec>
+                  <TitulacaoMbEqExec>Su</TitulacaoMbEqExec>  
+                   <FuncaoMbEqExec>PE</FuncaoMbEqExec> 
+                  
+                  <NomeMbEqExec>Alana Monteiro Lima</NomeMbEqExec>               
+                  <DocMbEqExec>14788121760</DocMbEqExec>                
+                  <TitulacaoMbEqExec>Su</TitulacaoMbEqExec>
+                  <FuncaoMbEqExec>AA</FuncaoMbEqExec> 
+
+                  <NomeMbEqExec> Gabriel Alcantara Costa Silva </NomeMbEqExec>               
+                  <DocMbEqExec>13675993779</DocMbEqExec> 
+                  <TitulacaoMbEqExec>SU</TitulacaoMbEqExec>
+                  <FuncaoMbEqExec>PE</FuncaoMbEqExec> 
+
+                  <NomeMbEqExec> Eduardo Elael de Melo Soares </NomeMbEqExec>                  
+                  <DocMbEqExec>04528767708</DocMbEqExec> 
+                  <TitulacaoMbEqExec>SU</TitulacaoMbEqExec>
+                  <FuncaoMbEqExec>PE</FuncaoMbEqExec> 
+
+                  <NomeMbEqExec> Renan Salles de Freitas </NomeMbEqExec>                       
+                  <DocMbEqExec>12932581724</DocMbEqExec> 
+                  <TitulacaoMbEqExec>SU</TitulacaoMbEqExec>
+                  <FuncaoMbEqExec>PE</FuncaoMbEqExec> 
+
+                  <NomeMbEqExec> A definir </NomeMbEqExec>                       
+                  <DocMbEqExec>00000000000</DocMbEqExec> 
+                  <TitulacaoMbEqExec>SU</TitulacaoMbEqExec>
+                  <FuncaoMbEqExec>PE</FuncaoMbEqExec> 
+
+                  <NomeMbEqExec> A definir </NomeMbEqExec>                       
+                  <DocMbEqExec>00000000000</DocMbEqExec> 
+                  <TitulacaoMbEqExec>SU</TitulacaoMbEqExec>
+                  <FuncaoMbEqExec>AB</FuncaoMbEqExec> 
+
+                  <NomeMbEqExec> A definir </NomeMbEqExec>                       
+                  <DocMbEqExec>00000000000</DocMbEqExec> 
+                  <TitulacaoMbEqExec>TE</TitulacaoMbEqExec>
+                  <FuncaoMbEqExec>AB</FuncaoMbEqExec> 
+
+                  <NomeMbEqExec> A definir </NomeMbEqExec>                       
+                  <DocMbEqExec>00000000000</DocMbEqExec> 
+                  <TitulacaoMbEqExec>TE</TitulacaoMbEqExec>
+                  <FuncaoMbEqExec>AB</FuncaoMbEqExec> 
+
+               </EquipeExec>
+            </Equipe>
+         </Executora>
+         <!-- Fim Equipe UFRJ   -->
+   
+         <!-- Equipe Rijeza   -->
+         <Executora> 
+             <CNPJExec>05034416000144</CNPJExec> 
+             <RazaoSocialExec>RIJEZA INDUSTRIA METALURGICA LTDA</RazaoSocialExec> 
+             <UfExec>RS</UfExec> 
+             <Equipe> 
+               <EquipeExec> 
+                  <NomeMbEqExec> Leonardo Geremia </NomeMbEqExec>                 
+                  <DocMbEqExec>81178298000</DocMbEqExec> 
+                  <TitulacaoMbEqExec>SU</TitulacaoMbEqExec>
+                  <FuncaoMbEqExec>PE</FuncaoMbEqExec>
+
+                  <NomeMbEqExec> Filipe Guerin </NomeMbEqExec>                      
+                  <DocMbEqExec>00778998061</DocMbEqExec> 
+                  <TitulacaoMbEqExec>TE</TitulacaoMbEqExec>
+                  <FuncaoMbEqExec>AT</FuncaoMbEqExec> 
+            
+    
+                  <NomeMbEqExec> Gabriel Cogo </NomeMbEqExec>                       
+                  <DocMbEqExec>00920504094</DocMbEqExec> 
+                  <TitulacaoMbEqExec>SU</TitulacaoMbEqExec>
+                  <FuncaoMbEqExec>PE</FuncaoMbEqExec> 
+
+
+                  <NomeMbEqExec> Silvio da Silva </NomeMbEqExec>                        
+                  <DocMbEqExec>03757286006</DocMbEqExec> 
+                  <TitulacaoMbEqExec>TE</TitulacaoMbEqExec>
+                  <FuncaoMbEqExec>AT</FuncaoMbEqExec> 
+            
+                  <NomeMbEqExec> Darlan Geremia </NomeMbEqExec>                        
+                  <DocMbEqExec>90274466015 </DocMbEqExec> 
+                  <TitulacaoMbEqExec>SU</TitulacaoMbEqExec>
+                  <FuncaoMbEqExec>PE</FuncaoMbEqExec> 
+
+                  <NomeMbEqExec> Jeferson Porto </NomeMbEqExec>                       
+                  <DocMbEqExec>77240189015 </DocMbEqExec> 
+                  <TitulacaoMbEqExec>TE</TitulacaoMbEqExec>
+                  <FuncaoMbEqExec>AT</FuncaoMbEqExec> 
+
+               </EquipeExec>
+            </Equipe>
+         </Executora>
+         <!-- Fim Equipe Rijeza   -->
+
+   </Executoras> 
+</PD_Equipe>
+
+<!-- Recursos  -->
+<PD_Recursos> 
+   <RecursoEmpresa> 
+      <!-- ESBR Codigo  -->
+      <CodEmpresa>6631</CodEmpresa> 
+
+       <!-- UFRJ Recursos  -->
+      <DestRecursosExec> 
+         <CNPJExec>7206099900175</CNPJExec> 
+          <!-- RH -->
+             <CustoCatContabilExec> 
+                <CatContabil>RH</CatContabil> 
+                 <CustoExec>1.379.400,00</CustoExec> 
+             </CustoCatContabilExec> 
+            <!-- ST -->
+             <CustoCatContabilExec> 
+                  <CatContabil>ST</CatContabil> 
+                  <CustoExec>370.000,00</CustoExec> 
+            </CustoCatContabilExec> 
+            <!-- MC -->
+            <CustoCatContabilExec> 
+                  <CatContabil>MC</CatContabil> 
+                  <CustoExec>36.500,00</CustoExec> 
+            </CustoCatContabilExec> 
+             <!-- MP -->
+            <CustoCatContabilExec> 
+               <CatContabil>MP</CatContabil> 
+               <CustoExec>216.000,00</CustoExec> 
+            </CustoCatContabilExec> 
+            <!-- VD -->
+            <CustoCatContabilExec> 
+               <CatContabil>VD</CatContabil> 
+               <CustoExec>130.000,00</CustoExec> 
+            </CustoCatContabilExec> 
+            <!-- OU -->
+            <CustoCatContabilExec> 
+               <CatContabil>OU</CatContabil> 
+               <CustoExec>355.573,47</CustoExec> 
+            </CustoCatContabilExec> 
+      </DestRecursosExec> 
+     
+      <!-- Rijeza  -->
+      <DestRecursosExec> 
+         <CNPJExec>05034416000144</CNPJExec> 
+         <!-- RH -->
+         <CustoCatContabilExec> 
+            <CatContabil>RH</CatContabil> 
+            <CustoExec>180.421,82</CustoExec> 
+         </CustoCatContabilExec> 
+         <!-- ST -->
+         <CustoCatContabilExec> 
+            <CatContabil>ST</CatContabil> 
+            <CustoExec>90.000,00</CustoExec> 
+         </CustoCatContabilExec> 
+         <!-- MC -->
+         <CustoCatContabilExec> 
+            <CatContabil>MC</CatContabil> 
+            <CustoExec>665.600,00</CustoExec> 
+         </CustoCatContabilExec> 
+         <!-- MP -->
+         <CustoCatContabilExec> 
+            <CatContabil>MP</CatContabil> 
+            <CustoExec>0,00</CustoExec> 
+         </CustoCatContabilExec> 
+         <!-- VD -->
+         <CustoCatContabilExec> 
+            <CatContabil>VD</CatContabil> 
+            <CustoExec>82.000,00</CustoExec> 
+         </CustoCatContabilExec> 
+         <!-- OU -->
+         <CustoCatContabilExec> 
+            <CatContabil>OU</CatContabil> 
+            <CustoExec>20.775,96</CustoExec> 
+         </CustoCatContabilExec> 
+      </DestRecursosExec> 
+
+      <!-- ESBR  -->
+      <DestRecursosEmp>
+         <CustoCatContabilEmp>
+            <!-- RH -->
+            <CatContabil>RH</CatContabil>
+            <CustoEmp>156.800,00</CustoEmp>
+            <!-- VD -->
+            <CatContabil>VD</CatContabil>
+            <CustoEmp>72.000,00</CustoEmp>
+         </CustoCatContabilEmp>
+      </DestRecursosEmp>
+
+   </RecursoEmpresa>
+</PD_Recursos> 
+
+
+</PED>
