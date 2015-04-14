@@ -24,74 +24,105 @@
 			controle de superfície. O software realiza as funções de controle,
 			processamentos e comunicação entre os diferentes subsistemas.
 		</ProdEspTec>
-		<TecPrev>
+		<TecPrev> <!-- <TecPrev>Letra</OrigPrev> -->
 			S
-		</OrigPrev>
-			<TecJust>Texto</TecJust>
-			<TecDesc>O sistema de monitoramento é constituído dos sensores de
-				inclinação, profundidade e proximidade que são instalados na viga
-				pescadora. Os sensores são suficientes para monitorar todas as
-				etapas do processo de içamento submarino de stoplogs pela viga. As
-				informações são processadas e transmitidas para a interface de
-				controle na superfície. Algoritmos de controle acompanham o
-				processo, levantando alarmes em caso de falhas na operação. O
-				sistema de mapeamento é constituído por um sonar acoplado a uma
-				unidade de pan & til. Estes sensores são instalados na viga
-				pescadora para realizar o mapeamento da região do vão do Stoplog. Os
-				ecos das ondas sonoras emitidas pelo sonar são modeladas em um grid
-				de ocupação probabilístico e filtrados através de um filtro de
-				partícula para determinar qual é o mapa mais provável da região. A
-				reconstrução 3D do ambiente possibilita o operador identificar
-				possíveis detritos submersos no vão.
-			</TecDesc>
-			<AplicPrev>S</AplicPrev>
-			<AplicJust>
-			</AplicJust>
-			<AplicFnc>Um operador da ESBR inseriu e removeu os stoplog, enquanto
-				visualizava a operação a partir do tablet instalado na cabine de
-				controle do guindaste. O sistema funcionou como esperado,
-				monitorando em tempo real todas as etapas da operação. Durante os
-				testes não houve ocorrência de uma falha operacional. Logo, as
-				condições de falhas foram forçadas em testes a seco. O sistema de
-				monitoramento acusou as falhas operacionais simuladas, levantando
-				alarmes visuais e sonoros. Medições foram feitas em 3 profundidades
-				diferentes e em vários ângulos de pan & tilt, fornecendo pontos de
-				vista distintos de uma mesma região. Devido ao alto grau de
-				sedimentação flutuando no rio Madeira, local do experimento, o sonar
-				apresentou um nível de ruído maior do que o padrão. A incerteza
-				alcançada no mapeamento foi de 200mm. Nenhum detrito maior do que
-				200mm de diâmetro foi detectado na soleira ou entorno do vão do
-				stoplog. A configuração e uso do software de inspeção está restrito
-				a use por especialista.
-			</AplicFnc>
-			<AplicAbrang> Para o desenvolvimento deste projeto foi realizado uma
-				ampla pesquisa bibliográfica acompanhada por um levantamento
-				detalhado dos equipamentos disponíveis no mercado além de várias
-				iterações de projeto e testes com protótipos em campo. O foco foi
-				alcançar um equilíbrio que garanta robustez para operar
-				repetidamente em um ambiente hostil, implantação fácil e rápida para
-				garantir a usabilidade do sistema, interface de usuário intuitiva
-				para reduzir a formação necessária e aplicabilidade abrangente. ?O
-				projeto representa uma inovação para a prática atual de operações
-				com stoplogs, sendo aplicável a qualquer usina que utilize viga de
-				içamento. A viga é um equipamento padrão em todas hidroelétricas de
-				médio e grande porte no Brasil e no exterior, sendo utilizadas em
-				todas as paradas de máquina que envolvem ensecamento.
-			</AplicAbrang>
-			<AplicAmbito>Stoplogs são barreiras modulares que são empilhadas a
-				jusante e montande do circuito hidráulico, permitindo o isolamento e
-				drenagem da região para manutenção. Um operador empilhas os stoplogs
-				no vao utilizando um guindaste equipado com uma viga pescadora. O
-				sistema do ROSA - Monitoramento possui um conjunto de sensores para
-				instrumentar a viga e prover as informações necessárias para que a
-				operação seja otimizada, o sistema é focado apenas na otimização e
-				redução dos erros de operação de pesca de stoplogs. O sistema de
-				mapeamento foi desenvolvido visando a identificação de detritos em
-				vão de Stoplogs, mas a técnica pode ser expandida e aplicada para
-				mapear outras regiões submersas, detectando, por exemplo, desgaste
-				no concreto por cavitação.
-			</AplicAmbito>
-			<TxDifTec>Texto</TxDifTec>
+		</TecPrev>
+		<TecJust>Texto</TecJust>
+		<TecDesc>O sistema de monitoramento é constituído dos sensores de
+			inclinação, profundidade e proximidade que são instalados na viga
+			pescadora. Os sensores são suficientes para monitorar todas as
+			etapas
+			do processo de içamento submarino de stoplogs pela viga. As
+			informações são processadas e transmitidas para a interface de
+			controle na superfície. Algoritmos de controle acompanham o
+			processo,
+			levantando alarmes em caso de falhas na operação. O
+			sistema de
+			mapeamento é constituído por um sonar acoplado a uma
+			unidade de pan &
+			til. Estes sensores são instalados na viga
+			pescadora para realizar o
+			mapeamento da região do vão do Stoplog. Os
+			ecos das ondas sonoras
+			emitidas pelo sonar são modeladas em um grid
+			de ocupação
+			probabilístico e filtrados através de um filtro de
+			partícula para
+			determinar qual é o mapa mais provável da região. A
+			reconstrução 3D do
+			ambiente possibilita o operador identificar
+			possíveis detritos
+			submersos no vão.
+		</TecDesc>
+		<AplicPrev>S</AplicPrev>
+		<AplicJust>
+		</AplicJust>
+		<AplicFnc>Um operador da ESBR inseriu e removeu os stoplog, enquanto
+			visualizava a operação a partir do tablet instalado na cabine de
+			controle do guindaste. O sistema funcionou como esperado,
+			monitorando
+			em tempo real todas as etapas da operação. Durante os
+			testes não houve
+			ocorrência de uma falha operacional. Logo, as
+			condições de falhas
+			foram forçadas em testes a seco. O sistema de
+			monitoramento acusou as
+			falhas operacionais simuladas, levantando
+			alarmes visuais e sonoros.
+			Medições foram feitas em 3 profundidades
+			diferentes e em vários
+			ângulos de pan & tilt, fornecendo pontos de
+			vista distintos de uma
+			mesma região. Devido ao alto grau de
+			sedimentação flutuando no rio
+			Madeira, local do experimento, o sonar
+			apresentou um nível de ruído
+			maior do que o padrão. A incerteza
+			alcançada no mapeamento foi de
+			200mm. Nenhum detrito maior do que
+			200mm de diâmetro foi detectado na
+			soleira ou entorno do vão do
+			stoplog. A configuração e uso do software
+			de inspeção está restrito
+			a use por especialista.
+		</AplicFnc>
+		<AplicAbrang> Para o desenvolvimento deste projeto foi realizado uma
+			ampla pesquisa bibliográfica acompanhada por um levantamento
+			detalhado dos equipamentos disponíveis no mercado além de várias
+			iterações de projeto e testes com protótipos em campo. O foco foi
+			alcançar um equilíbrio que garanta robustez para operar
+			repetidamente
+			em um ambiente hostil, implantação fácil e rápida para
+			garantir a
+			usabilidade do sistema, interface de usuário intuitiva
+			para reduzir a
+			formação necessária e aplicabilidade abrangente. ?O
+			projeto representa
+			uma inovação para a prática atual de operações
+			com stoplogs, sendo
+			aplicável a qualquer usina que utilize viga de
+			içamento. A viga é um
+			equipamento padrão em todas hidroelétricas de
+			médio e grande porte no
+			Brasil e no exterior, sendo utilizadas em
+			todas as paradas de máquina
+			que envolvem ensecamento.
+		</AplicAbrang>
+		<AplicAmbito>Stoplogs são barreiras modulares que são empilhadas a
+			jusante e montande do circuito hidráulico, permitindo o isolamento e
+			drenagem da região para manutenção. Um operador empilhas os stoplogs
+			no vao utilizando um guindaste equipado com uma viga pescadora. O
+			sistema do ROSA - Monitoramento possui um conjunto de sensores para
+			instrumentar a viga e prover as informações necessárias para que a
+			operação seja otimizada, o sistema é focado apenas na otimização e
+			redução dos erros de operação de pesca de stoplogs. O sistema de
+			mapeamento foi desenvolvido visando a identificação de detritos em
+			vão de Stoplogs, mas a técnica pode ser expandida e aplicada para
+			mapear outras regiões submersas, detectando, por exemplo, desgaste
+			no
+			concreto por cavitação.
+		</AplicAmbito>
+		<TxDifTec>Texto</TxDifTec>
 
 	</PD_RelFinalBase>
 
@@ -465,6 +496,8 @@
 							<TipoItem>N</TipoItem>
 							<ItemLabE>N</ItemLabE>
 							<ItemLabN>N</ItemLabN>
+						</ItemDespesa>
+						<ItemDespesa>
 							<NomeItem> Carregador Kita CM5A2 </NomeItem>
 							<JustificaItem>As baterias serão utilizadas dentro da eletrônica
 								embarcada, como fonte de alimentação alternativa para os
@@ -480,6 +513,8 @@
 							<TipoItem>N</TipoItem>
 							<ItemLabE>N</ItemLabE>
 							<ItemLabN>N</ItemLabN>
+						</ItemDespesa>
+						<ItemDespesa>
 							<NomeItem>MULTICABOS 12x24 MPAS 40m</NomeItem>
 							<JustificaItem>Cabo de 24 vias e 40 metros utilizado como
 								umbilical
@@ -492,6 +527,8 @@
 							<TipoItem>N</TipoItem>
 							<ItemLabE>N</ItemLabE>
 							<ItemLabN>N</ItemLabN>
+						</ItemDespesa>
+						<ItemDespesa>
 							<NomeItem>Resistores CR25 (1/8W - 0,33W) </NomeItem>
 							<JustificaItem>Os componentes eletrônicos são compostos por :
 								resistores, capacitores cerâmicos e chaves gangorra. Serão
@@ -504,6 +541,8 @@
 							<TipoItem>N</TipoItem>
 							<ItemLabE>N</ItemLabE>
 							<ItemLabN>N</ItemLabN>
+						</ItemDespesa>
+						<ItemDespesa>
 							<NomeItem>Chave Gangorra Pequena L/D (6 AMP) </NomeItem>
 							<JustificaItem>Os componentes eletrônicos 1 são compostos por :
 								resistores, capacitores cerâmicos e chaves gangorra. Serão
@@ -516,6 +555,8 @@
 							<TipoItem>N</TipoItem>
 							<ItemLabE>N</ItemLabE>
 							<ItemLabN>N</ItemLabN>
+						</ItemDespesa>
+						<ItemDespesa>
 							<NomeItem>C1 Max 232</NomeItem>
 							<JustificaItem>Os componentes eletrônicos 1 são compostos por :
 								resistores, capacitores cerâmicos e chaves gangorra. Serão
@@ -528,6 +569,8 @@
 							<TipoItem>N</TipoItem>
 							<ItemLabE>N</ItemLabE>
 							<ItemLabN>N</ItemLabN>
+						</ItemDespesa>
+						<ItemDespesa>
 							<NomeItem>Capacitor cerâmico 50V/100V/50V</NomeItem>
 							<JustificaItem>Os componentes eletrônicos 1 são compostos por :
 								resistores, capacitores cerâmicos e chaves gangorra. Serão
@@ -540,6 +583,8 @@
 							<TipoItem>N</TipoItem>
 							<ItemLabE>N</ItemLabE>
 							<ItemLabN>N</ItemLabN>
+						</ItemDespesa>
+						<ItemDespesa>
 							<NomeItem>GAV90 Regulador 7805 </NomeItem>
 							<JustificaItem>Os componentes são necessários para testes da
 								eletrônica. Os reguladores são necessários para converter
@@ -560,6 +605,8 @@
 							<TipoItem>N</TipoItem>
 							<ItemLabE>N</ItemLabE>
 							<ItemLabN>N</ItemLabN>
+						</ItemDespesa>
+						<ItemDespesa>
 							<NomeItem>CAP Poliéster</NomeItem>
 							<JustificaItem>Os componentes são necessários para testes da
 								eletrônica. Os reguladores são necessários para converter
@@ -580,6 +627,8 @@
 							<TipoItem>N</TipoItem>
 							<ItemLabE>N</ItemLabE>
 							<ItemLabN>N</ItemLabN>
+						</ItemDespesa>
+						<ItemDespesa>
 							<NomeItem>Barra Sindal 10A</NomeItem>
 							<JustificaItem>Os componentes são necessários para testes da
 								eletrônica. Os reguladores são necessários para converter
@@ -600,6 +649,8 @@
 							<TipoItem>N</TipoItem>
 							<ItemLabE>N</ItemLabE>
 							<ItemLabN>N</ItemLabN>
+						</ItemDespesa>
+						<ItemDespesa>
 							<NomeItem>Barra de pino</NomeItem>
 							<JustificaItem>Os componentes são necessários para testes da
 								eletrônica. Os reguladores são necessários para converter
@@ -620,6 +671,8 @@
 							<TipoItem>N</TipoItem>
 							<ItemLabE>N</ItemLabE>
 							<ItemLabN>N</ItemLabN>
+						</ItemDespesa>
+						<ItemDespesa>
 							<NomeItem>Adaptador tomada 3P/1 Nova </NomeItem>
 							<JustificaItem>Acessórios para testes da eletrônica em campo
 								(Jirau)
@@ -629,6 +682,8 @@
 							<TipoItem>N</TipoItem>
 							<ItemLabE>N</ItemLabE>
 							<ItemLabN>N</ItemLabN>
+						</ItemDespesa>
+						<ItemDespesa>
 							<NomeItem>Extensão comum 5 metros AC</NomeItem>
 							<JustificaItem>Acessórios para testes da eletrônica em campo
 								(Jirau)
@@ -638,6 +693,8 @@
 							<TipoItem>N</TipoItem>
 							<ItemLabE>N</ItemLabE>
 							<ItemLabN>N</ItemLabN>
+						</ItemDespesa>
+						<ItemDespesa>
 							<NomeItem>MAX232ACSE+ -CI TRANSM/RECEPT RS232 5.5V SOIC-16
 							</NomeItem>
 							<JustificaItem>Os componentes eletrônicos 2 são compostos por :
@@ -655,6 +712,8 @@
 							<TipoItem>N</TipoItem>
 							<ItemLabE>N</ItemLabE>
 							<ItemLabN>N</ItemLabN>
+						</ItemDespesa>
+						<ItemDespesa>
 							<NomeItem>MAX485ESA+ -CI TRANSM/RECEPT RS485/RS4.5 25V SOIC
 							</NomeItem>
 							<JustificaItem>Os componentes eletrônicos 2 são compostos por :
@@ -672,6 +731,8 @@
 							<TipoItem>N</TipoItem>
 							<ItemLabE>N</ItemLabE>
 							<ItemLabN>N</ItemLabN>
+						</ItemDespesa>
+						<ItemDespesa>
 							<NomeItem>AD7490BRUZ - CI Conversor A/D TSSOP 28P</NomeItem>
 							<JustificaItem>Os componentes eletrônicos 2 são compostos por :
 								resistores, capacitores cerâmicos, chips conversores de
@@ -688,6 +749,8 @@
 							<TipoItem>N</TipoItem>
 							<ItemLabE>N</ItemLabE>
 							<ItemLabN>N</ItemLabN>
+						</ItemDespesa>
+						<ItemDespesa>
 							<NomeItem>CC0603RJNP09BN100 - CAPACITOR CERAMICO MULTI CAMADA
 							</NomeItem>
 							<JustificaItem>Os componentes eletrônicos 2 são compostos por :
@@ -705,6 +768,8 @@
 							<TipoItem>N</TipoItem>
 							<ItemLabE>N</ItemLabE>
 							<ItemLabN>N</ItemLabN>
+						</ItemDespesa>
+						<ItemDespesa>
 							<NomeItem>MCB0805R474KCT - CAPACITOR CERAMICO MULTI CAMADAS
 							</NomeItem>
 							<JustificaItem>Os componentes eletrônicos 2 são compostos por :
@@ -722,6 +787,8 @@
 							<TipoItem>N</TipoItem>
 							<ItemLabE>N</ItemLabE>
 							<ItemLabN>N</ItemLabN>
+						</ItemDespesa>
+						<ItemDespesa>
 							<NomeItem>TAJD336K016RNJ - CAPACITOR 33UF 16V </NomeItem>
 							<JustificaItem>Os componentes eletrônicos 2 são compostos por :
 								resistores, capacitores cerâmicos, chips conversores de
@@ -738,6 +805,8 @@
 							<TipoItem>N</TipoItem>
 							<ItemLabE>N</ItemLabE>
 							<ItemLabN>N</ItemLabN>
+						</ItemDespesa>
+						<ItemDespesa>
 							<NomeItem>U0603R102KCT - CAPACITOR CERAMICO MULTI CAMADAS IN
 							</NomeItem>
 							<JustificaItem>Os componentes eletrônicos 2 são compostos por :
@@ -755,6 +824,8 @@
 							<TipoItem>N</TipoItem>
 							<ItemLabE>N</ItemLabE>
 							<ItemLabN>N</ItemLabN>
+						</ItemDespesa>
+						<ItemDespesa>
 							<NomeItem>U805R104KCT - CAPACITOR CERAMICO MULTI CAMADAS
 							</NomeItem>
 							<JustificaItem>Os componentes eletrônicos 2 são compostos por :
@@ -772,6 +843,8 @@
 							<TipoItem>N</TipoItem>
 							<ItemLabE>N</ItemLabE>
 							<ItemLabN>N</ItemLabN>
+						</ItemDespesa>
+						<ItemDespesa>
 							<NomeItem>MCT0603F104ZCT - CAPACITOR CERAMICO MULTI CAMADAS
 							</NomeItem>
 							<JustificaItem>Os componentes eletrônicos 2 são compostos por :
@@ -789,6 +862,8 @@
 							<TipoItem>N</TipoItem>
 							<ItemLabE>N</ItemLabE>
 							<ItemLabN>N</ItemLabN>
+						</ItemDespesa>
+						<ItemDespesa>
 							<NomeItem>TUBO SILICONE </NomeItem>
 							<JustificaItem>Os tubos e colas de silicone são utilizados nas
 								emendas de cabos submarinos.
@@ -798,6 +873,8 @@
 							<TipoItem>N</TipoItem>
 							<ItemLabE>N</ItemLabE>
 							<ItemLabN>N</ItemLabN>
+						</ItemDespesa>
+						<ItemDespesa>
 							<NomeItem>COLA SILICONE</NomeItem>
 							<JustificaItem>Os tubos e colas de silicone são utilizados nas
 								emendas de cabos submarinos.
@@ -807,6 +884,8 @@
 							<TipoItem>N</TipoItem>
 							<ItemLabE>N</ItemLabE>
 							<ItemLabN>N</ItemLabN>
+						</ItemDespesa>
+						<ItemDespesa>
 							<NomeItem>KIT SUPRENS AÇO INOX</NomeItem>
 							<JustificaItem>O Kit Suprens Aço Inox contem abraçadeiras
 								metálicas
@@ -819,6 +898,8 @@
 							<TipoItem>N</TipoItem>
 							<ItemLabE>N</ItemLabE>
 							<ItemLabN>N</ItemLabN>
+						</ItemDespesa>
+						<ItemDespesa>
 							<NomeItem>Conversor Serial USB-RS 485</NomeItem>
 							<JustificaItem>O conversor USB-RS485 e utilizado durante testes
 								de
@@ -830,6 +911,8 @@
 							<TipoItem>N</TipoItem>
 							<ItemLabE>N</ItemLabE>
 							<ItemLabN>N</ItemLabN>
+						</ItemDespesa>
+						<ItemDespesa>
 							<NomeItem>Conectores</NomeItem>
 							<JustificaItem></JustificaItem>
 							<QtdeItem></QtdeItem>
@@ -837,6 +920,8 @@
 							<TipoItem>N</TipoItem>
 							<ItemLabE>N</ItemLabE>
 							<ItemLabN>N</ItemLabN>
+						</ItemDespesa>
+						<ItemDespesa>
 							<NomeItem>Placas de Controle</NomeItem>
 							<JustificaItem></JustificaItem>
 							<QtdeItem></QtdeItem>
@@ -844,6 +929,8 @@
 							<TipoItem>N</TipoItem>
 							<ItemLabE>N</ItemLabE>
 							<ItemLabN>N</ItemLabN>
+						</ItemDespesa>
+						<ItemDespesa>
 							<NomeItem>Roteador</NomeItem>
 							<JustificaItem></JustificaItem>
 							<QtdeItem></QtdeItem>
@@ -851,6 +938,8 @@
 							<TipoItem>N</TipoItem>
 							<ItemLabE>N</ItemLabE>
 							<ItemLabN>N</ItemLabN>
+						</ItemDespesa>
+						<ItemDespesa>
 							<NomeItem>Bloco de alumínio </NomeItem>
 							<JustificaItem></JustificaItem>
 							<QtdeItem></QtdeItem>
@@ -858,6 +947,8 @@
 							<TipoItem>N</TipoItem>
 							<ItemLabE>N</ItemLabE>
 							<ItemLabN>N</ItemLabN>
+						</ItemDespesa>
+						<ItemDespesa>
 							<NomeItem>Cabo de Comunicação</NomeItem>
 							<JustificaItem></JustificaItem>
 							<QtdeItem></QtdeItem>
@@ -866,593 +957,727 @@
 							<ItemLabE>N</ItemLabE>
 							<ItemLabN>N</ItemLabN>
 						</ItemDespesa>
+					</ItemDespesa>
+					</CustoCatContabil>
+					<CustoCatContabil>
 						<CategoriaContabil>MP</CategoriaContabil>
 						<ItemDespesa>
-							<NomeItem>Profiler Super Seaking e Connector Straight </NomeItem>
-							<JustificaItem>O Sonar será utilizado para realizar o mapeamento
-								3D
-								do trilho do Stoplog. O mapeamento permite que o operador
-								observe
-								se existe ou não detritos no trilho que impossibilitariam
-								o
-								posicionamento correto do Stoplog para a vedação.
-							</JustificaItem>
-							<QtdeItem>1</QtdeItem>
-							<ValorIndItem>33683,39</ValorIndItem>
-							<TipoItem>I</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Tablet Samsung - Galaxy Note 10.1 2014</NomeItem>
-							<JustificaItem>O tablet será utilizado para a visualização da
-								interface de usuário, que representa as informações do robô em
-								um
-								formato facilmente compreensível.
-							</JustificaItem>
-							<QtdeItem>1</QtdeItem>
-							<ValorIndItem>1583,12</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Sensor Indutivo - NBB20-L2-E2- V1</NomeItem>
-							<JustificaItem>O sensor indutivo será utilizado para detectar o
-								contato entre a garra pescadora e o Stoplog, verificando assim
-								se
-								o mesmo está corretamente enganchado.
-							</JustificaItem>
-							<QtdeItem>6</QtdeItem>
-							<ValorIndItem>166,57</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Notebooks DELL </NomeItem>
-							<JustificaItem>O robô ROSA terá suas funções testados no canteiro
-								de obras da Usina Hidroelétrica Jirau. Logo, para a execução dos
-								testes será necessário Laptops para acompanhar os mesmos e
-								realizar as correções necessárias.
-							</JustificaItem>
-							<QtdeItem>3</QtdeItem>
-							<ValorIndItem>3099,46333333333</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>ENCODER - RM9000</NomeItem>
-							<JustificaItem>O encodear será utilizado para medir a posição
-								angular do gancho da garra pescadora. Auxiliando assim a
-								visualização do processo de acoplagem entre a garra pescadora e
-								o
-								stoplog
-							</JustificaItem>
-							<QtdeItem>3</QtdeItem>
-							<ValorIndItem>1196,53666666667</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>SENSOR DE PRESSÃO - HPXFL</NomeItem>
-							<JustificaItem>O sensor de pressão será utilizado para medir a
-								profundidade do robô durante o processo de inserção e remoção da
-								viga pescadora.
-							</JustificaItem>
-							<QtdeItem>1</QtdeItem>
-							<ValorIndItem>1625,5</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Sensor de Inclinação</NomeItem>
-							<JustificaItem>Sensor para medir a inclinação da viga pescador e
-								de
-								suas garras
-							</JustificaItem>
-							<QtdeItem>4</QtdeItem>
-							<ValorIndItem>1098,605</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Pan & Tilt - OE10-102</NomeItem>
-							<JustificaItem>O motor de posicionamento será acoplado ao Sonar
-								2D
-								aumento o grau de liberdade do sistema de mapeamento,
-								possibilitando assim cobrir toda a extensão do trilho do Stoplog
-							</JustificaItem>
-							<QtdeItem>1</QtdeItem>
-							<ValorIndItem>30161,93</ValorIndItem>
-							<TipoItem>I</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>PC104</NomeItem>
-							<JustificaItem>Computador embarcado para fazer o processamento
-								das
-								medidas do sensor submarino
-							</JustificaItem>
-							<QtdeItem></QtdeItem>
-							<ValorIndItem>3778,95</ValorIndItem>
-							<TipoItem>I</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Eletrônica Submarina de ROV customizada, 100m de
-								profundidade com umbilical rugoso a tração
-							</NomeItem>
-							<JustificaItem>Os sensores e atuadores instalados na garra
-								pescadora serão conectados a uma eletrônica central que irá
-								transmitir os dados gerados através de um umbilical de a um
-								sistema de processamento em terra. O sistema é equivalente a um
-								ROV (Veículo Submarino Remotamente Operado), entretanto no caso
-								do
-								ROSA os sensores são espalhados pela da viga pescador.
-							</JustificaItem>
-							<QtdeItem></QtdeItem>
-							<ValorIndItem>494540,1777</ValorIndItem>
-							<TipoItem>I</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Central de controle de superfície para ROV encapsulada
-								um
-								pelican case aprova d'água
-							</NomeItem>
-							<JustificaItem>Sistema que de transmissão de potência para a
-								eletrônica embarcada e processamento e transmissão sem fio dos
-								dados gerados pelo sistema embarcado.
-							</JustificaItem>
-							<QtdeItem></QtdeItem>
-							<ValorIndItem>392723,082295082</ValorIndItem>
-							<TipoItem>I</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Case</NomeItem>
-							<JustificaItem></JustificaItem>
-							<QtdeItem></QtdeItem>
-							<ValorIndItem>1335</ValorIndItem>
-							<TipoItem>0</TipoItem>
-							<ItemLabE></ItemLabE>
-							<ItemLabN></ItemLabN>
-							<NomeItem>Case de alumínio da Eletrônica </NomeItem>
-							<JustificaItem>Case de alumínio submersível até 30m de
-								profundidade
-								para o primeiro protótipo da eletrônica construído
-								no laboratório
-							</JustificaItem>
-							<QtdeItem></QtdeItem>
-							<ValorIndItem>9570</ValorIndItem>
-							<TipoItem></TipoItem>
-							<ItemLabE></ItemLabE>
-							<ItemLabN></ItemLabN>
+							<ItemDespesa>
+								<NomeItem>Profiler Super Seaking e Connector Straight </NomeItem>
+								<JustificaItem>O Sonar será utilizado para realizar o mapeamento
+									3D
+									do trilho do Stoplog. O mapeamento permite que o operador
+									observe
+									se existe ou não detritos no trilho que
+									impossibilitariam
+									o
+									posicionamento correto do Stoplog para a
+									vedação.
+								</JustificaItem>
+								<QtdeItem>1</QtdeItem>
+								<ValorIndItem>33683,39</ValorIndItem>
+								<TipoItem>I</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Tablet Samsung - Galaxy Note 10.1 2014</NomeItem>
+								<JustificaItem>O tablet será utilizado para a visualização da
+									interface de usuário, que representa as informações do robô em
+									um
+									formato facilmente compreensível.
+								</JustificaItem>
+								<QtdeItem>1</QtdeItem>
+								<ValorIndItem>1583,12</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Sensor Indutivo - NBB20-L2-E2- V1</NomeItem>
+								<JustificaItem>O sensor indutivo será utilizado para detectar o
+									contato entre a garra pescadora e o Stoplog, verificando assim
+									se
+									o mesmo está corretamente enganchado.
+								</JustificaItem>
+								<QtdeItem>6</QtdeItem>
+								<ValorIndItem>166,57</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Notebooks DELL </NomeItem>
+								<JustificaItem>O robô ROSA terá suas funções testados no
+									canteiro
+									de obras da Usina Hidroelétrica Jirau. Logo, para a
+									execução dos
+									testes será necessário Laptops para acompanhar os
+									mesmos e
+									realizar as correções necessárias.
+								</JustificaItem>
+								<QtdeItem>3</QtdeItem>
+								<ValorIndItem>3099,46333333333</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>ENCODER - RM9000</NomeItem>
+								<JustificaItem>O encodear será utilizado para medir a posição
+									angular do gancho da garra pescadora. Auxiliando assim a
+									visualização do processo de acoplagem entre a garra pescadora e
+									o
+									stoplog
+								</JustificaItem>
+								<QtdeItem>3</QtdeItem>
+								<ValorIndItem>1196,53666666667</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>SENSOR DE PRESSÃO - HPXFL</NomeItem>
+								<JustificaItem>O sensor de pressão será utilizado para medir a
+									profundidade do robô durante o processo de inserção e remoção
+									da
+									viga pescadora.
+								</JustificaItem>
+								<QtdeItem>1</QtdeItem>
+								<ValorIndItem>1625,5</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Sensor de Inclinação</NomeItem>
+								<JustificaItem>Sensor para medir a inclinação da viga pescador e
+									de
+									suas garras
+								</JustificaItem>
+								<QtdeItem>4</QtdeItem>
+								<ValorIndItem>1098,605</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Pan & Tilt - OE10-102</NomeItem>
+								<JustificaItem>O motor de posicionamento será acoplado ao Sonar
+									2D
+									aumento o grau de liberdade do sistema de mapeamento,
+									possibilitando assim cobrir toda a extensão do trilho do
+									Stoplog
+								</JustificaItem>
+								<QtdeItem>1</QtdeItem>
+								<ValorIndItem>30161,93</ValorIndItem>
+								<TipoItem>I</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>PC104</NomeItem>
+								<JustificaItem>Computador embarcado para fazer o processamento
+									das
+									medidas do sensor submarino
+								</JustificaItem>
+								<QtdeItem></QtdeItem>
+								<ValorIndItem>3778,95</ValorIndItem>
+								<TipoItem>I</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Eletrônica Submarina de ROV customizada, 100m de
+									profundidade com umbilical rugoso a tração
+								</NomeItem>
+								<JustificaItem>Os sensores e atuadores instalados na garra
+									pescadora serão conectados a uma eletrônica central que irá
+									transmitir os dados gerados através de um umbilical de a um
+									sistema de processamento em terra. O sistema é equivalente a um
+									ROV (Veículo Submarino Remotamente Operado), entretanto no caso
+									do
+									ROSA os sensores são espalhados pela da viga pescador.
+								</JustificaItem>
+								<QtdeItem></QtdeItem>
+								<ValorIndItem>494540,1777</ValorIndItem>
+								<TipoItem>I</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Central de controle de superfície para ROV encapsulada
+									um
+									pelican case aprova d'água
+								</NomeItem>
+								<JustificaItem>Sistema que de transmissão de potência para a
+									eletrônica embarcada e processamento e transmissão sem fio dos
+									dados gerados pelo sistema embarcado.
+								</JustificaItem>
+								<QtdeItem></QtdeItem>
+								<ValorIndItem>392723,082295082</ValorIndItem>
+								<TipoItem>I</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Case</NomeItem>
+								<JustificaItem></JustificaItem>
+								<QtdeItem></QtdeItem>
+								<ValorIndItem>1335</ValorIndItem>
+								<TipoItem>0</TipoItem>
+								<ItemLabE></ItemLabE>
+								<ItemLabN></ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Case de alumínio da Eletrônica </NomeItem>
+								<JustificaItem>Case de alumínio submersível até 30m de
+									profundidade
+									para o primeiro protótipo da eletrônica construído
+									no laboratório
+								</JustificaItem>
+								<QtdeItem></QtdeItem>
+								<ValorIndItem>9570</ValorIndItem>
+								<TipoItem></TipoItem>
+								<ItemLabE></ItemLabE>
+								<ItemLabN></ItemLabN>
+							</ItemDespesa>
 						</ItemDespesa>
+					</CustoCatContabil>
+					<CustoCatContabil>
 						<CategoriaContabil>VD</CategoriaContabil>
 						<ItemDespesa>
-							<NomeItem>Diárias Ref. UHE JIRAU 02 a 06/06/2014</NomeItem>
-							<JustificaItem>Viajem 01 para UHE Jirau, Porto Velho para testes
-								em
-								campo. Testes dos sensores de monitoramento, indutivo, encoder
-								e
-								inclinômetro.
-							</JustificaItem>
-							<QtdeItem>5</QtdeItem>
-							<ValorIndItem>350</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Passagens Aéreas Ref. UHE JIRAU 02 a 06/06/2014
-							</NomeItem>
-							<JustificaItem>Viajem 01 para UHE Jirau, Porto Velho para testes
-								em
-								campo. Testes dos sensores de monitoramento, indutivo, encoder
-								e
-								inclinômetro.
-							</JustificaItem>
-							<QtdeItem>5</QtdeItem>
-							<ValorIndItem>2783,02</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Locação de dois Veículos Ref. UHE 02 a 06/06/2014
-							</NomeItem>
-							<JustificaItem>Viajem 01 para UHE Jirau, Porto Velho para testes
-								em
-								campo. Testes dos sensores de monitoramento, indutivo, encoder
-								e
-								inclinômetro.
-							</JustificaItem>
-							<QtdeItem>2</QtdeItem>
-							<ValorIndItem>990</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Diárias Ref. Atividade em UHE JIRAU 03 a 07/11/14
-							</NomeItem>
-							<JustificaItem>Viajem 02 para UHE Jirau, Porto Velho para testes
-								em
-								campo. Teste dos sensores de mapeamento (sonar e pan & tilt).
-							</JustificaItem>
-							<QtdeItem>4</QtdeItem>
-							<ValorIndItem>400</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Locação de dois Veículos em UHE JIRAU 03 a 07/11/14
-							</NomeItem>
-							<JustificaItem>Viajem 02 para UHE Jirau, Porto Velho para testes
-								em
-								campo. Teste dos sensores de mapeamento (sonar e pan & tilt).
-							</JustificaItem>
-							<QtdeItem>2</QtdeItem>
-							<ValorIndItem>800</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Frete dos equipamento em UHE JIRAU 03 a 07/11/14
-							</NomeItem>
-							<JustificaItem>Viajem 02 para UHE Jirau, Porto Velho para testes
-								em
-								campo. Teste dos sensores de mapeamento (sonar e pan & tilt).
-							</JustificaItem>
-							<QtdeItem>1</QtdeItem>
-							<ValorIndItem>3277,43</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Passagens Aéreas de dois Veículos em UHE JIRAU 03 a
-								07/11/14
-							</NomeItem>
-							<JustificaItem>Viajem 02 para UHE Jirau, Porto Velho para testes
-								em
-								campo. Teste dos sensores de mapeamento (sonar e pan & tilt).
-							</JustificaItem>
-							<QtdeItem>4</QtdeItem>
-							<ValorIndItem>2378,42</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Diárias Ref. Atividade em UHE JIRAU a 19/01/14 a
-								23/01/14
-							</NomeItem>
-							<JustificaItem>Viajem 03 para UHE Jirau, Porto Velho para testes
-								em
-								campo. Testes do protótipo da eletrônica embarcada com
-								sensores de
-								monitoramento e mapeamento.
-							</JustificaItem>
-							<QtdeItem>5</QtdeItem>
-							<ValorIndItem>500</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Locação de três Veículos em UHE JIRAU 19/01/14 a
-								23/01/14
-							</NomeItem>
-							<JustificaItem>Viajem 03 para UHE Jirau, Porto Velho para testes
-								em
-								campo. Testes do protótipo da eletrônica embarcada com
-								sensores de
-								monitoramento e mapeamento.
-							</JustificaItem>
-							<QtdeItem>3</QtdeItem>
-							<ValorIndItem>1219,33333333333</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Frete dos equipamento em UHE JIRAU 19/01/14 a 23/01/14
-							</NomeItem>
-							<JustificaItem>Viajem 03 para UHE Jirau, Porto Velho para testes
-								em
-								campo. Testes do protótipo da eletrônica embarcada com
-								sensores de
-								monitoramento e mapeamento.
-							</JustificaItem>
-							<QtdeItem>1</QtdeItem>
-							<ValorIndItem>5334,65</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Passagens Aéreas de dois Veículos em UHE JIRAU 19/01/14
-								a
-								23/01/14
-							</NomeItem>
-							<JustificaItem>Viajem 03 para UHE Jirau, Porto Velho para testes
-								em
-								campo. Testes do protótipo da eletrônica embarcada com
-								sensores de
-								monitoramento e mapeamento.
-							</JustificaItem>
-							<QtdeItem>5</QtdeItem>
-							<ValorIndItem>2791,23</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Diárias Ref. Atividade em UHE JIRAU a 23/02/14 a
-								27/02/14
-							</NomeItem>
-							<JustificaItem>Viajem 04 para UHE Jirau, Porto Velho para testes
-								em
-								campo. Teste com o protótipo final submarino do robô ROSA.
-							</JustificaItem>
-							<QtdeItem>5</QtdeItem>
-							<ValorIndItem>500</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Locação de três Veículos em UHE JIRAU 23/02/14 a
-								27/02/14
-							</NomeItem>
-							<JustificaItem>Viajem 04 para UHE Jirau, Porto Velho para testes
-								em
-								campo. Teste com o protótipo final submarino do robô ROSA.
-							</JustificaItem>
-							<QtdeItem>3</QtdeItem>
-							<ValorIndItem>1219,33333333333</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Frete dos equipamento em UHE JIRAU 23/02/14 a 27/02/14
-							</NomeItem>
-							<JustificaItem>Viajem 04 para UHE Jirau, Porto Velho para testes
-								em
-								campo. Teste com o protótipo final submarino do robô ROSA.
-							</JustificaItem>
-							<QtdeItem>1</QtdeItem>
-							<ValorIndItem>6796,61</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Passagens Aéreas de dois Veículos em UHE JIRAU 23/02/14
-								a
-								27/02/14
-							</NomeItem>
-							<JustificaItem>Viajem 04 para UHE Jirau, Porto Velho para testes
-								em
-								campo. Teste com o protótipo final submarino do robô ROSA.
-							</JustificaItem>
-							<QtdeItem>5</QtdeItem>
-							<ValorIndItem>2791,23</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Frete dos robô submarino SeaBotix para UHE JIRAU
-								19/01/14
-								a 23/01/14
-							</NomeItem>
-							<JustificaItem>Viajem 04 para UHE Jirau, Porto Velho para testes
-								em
-								campo. Transporte do robô SeaBotix que foi emprestado ao
-								laboratório pela ESBR como plataforma de teste de sensores.
-							</JustificaItem>
-							<QtdeItem>1</QtdeItem>
-							<ValorIndItem>7131,22</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Remanejamento de passagens</NomeItem>
-							<JustificaItem>???????</JustificaItem>
-							<QtdeItem>1</QtdeItem>
-							<ValorIndItem>2743,99</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
+							<ItemDespesa>
+								<NomeItem>Diárias Ref. UHE JIRAU 02 a 06/06/2014</NomeItem>
+								<JustificaItem>Viajem 01 para UHE Jirau, Porto Velho para testes
+									em
+									campo. Testes dos sensores de monitoramento, indutivo,
+									encoder
+									e
+									inclinômetro.
+								</JustificaItem>
+								<QtdeItem>5</QtdeItem>
+								<ValorIndItem>350</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Passagens Aéreas Ref. UHE JIRAU 02 a 06/06/2014
+								</NomeItem>
+								<JustificaItem>Viajem 01 para UHE Jirau, Porto Velho para testes
+									em
+									campo. Testes dos sensores de monitoramento, indutivo,
+									encoder
+									e
+									inclinômetro.
+								</JustificaItem>
+								<QtdeItem>5</QtdeItem>
+								<ValorIndItem>2783,02</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Locação de dois Veículos Ref. UHE 02 a 06/06/2014
+								</NomeItem>
+								<JustificaItem>Viajem 01 para UHE Jirau, Porto Velho para testes
+									em
+									campo. Testes dos sensores de monitoramento, indutivo,
+									encoder
+									e
+									inclinômetro.
+								</JustificaItem>
+								<QtdeItem>2</QtdeItem>
+								<ValorIndItem>990</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Diárias Ref. Atividade em UHE JIRAU 03 a 07/11/14
+								</NomeItem>
+								<JustificaItem>Viajem 02 para UHE Jirau, Porto Velho para testes
+									em
+									campo. Teste dos sensores de mapeamento (sonar e pan & tilt).
+								</JustificaItem>
+								<QtdeItem>4</QtdeItem>
+								<ValorIndItem>400</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Locação de dois Veículos em UHE JIRAU 03 a 07/11/14
+								</NomeItem>
+								<JustificaItem>Viajem 02 para UHE Jirau, Porto Velho para testes
+									em
+									campo. Teste dos sensores de mapeamento (sonar e pan & tilt).
+								</JustificaItem>
+								<QtdeItem>2</QtdeItem>
+								<ValorIndItem>800</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Frete dos equipamento em UHE JIRAU 03 a 07/11/14
+								</NomeItem>
+								<JustificaItem>Viajem 02 para UHE Jirau, Porto Velho para testes
+									em
+									campo. Teste dos sensores de mapeamento (sonar e pan & tilt).
+								</JustificaItem>
+								<QtdeItem>1</QtdeItem>
+								<ValorIndItem>3277,43</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Passagens Aéreas de dois Veículos em UHE JIRAU 03 a
+									07/11/14
+								</NomeItem>
+								<JustificaItem>Viajem 02 para UHE Jirau, Porto Velho para testes
+									em
+									campo. Teste dos sensores de mapeamento (sonar e pan & tilt).
+								</JustificaItem>
+								<QtdeItem>4</QtdeItem>
+								<ValorIndItem>2378,42</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Diárias Ref. Atividade em UHE JIRAU a 19/01/14 a
+									23/01/14
+								</NomeItem>
+								<JustificaItem>Viajem 03 para UHE Jirau, Porto Velho para testes
+									em
+									campo. Testes do protótipo da eletrônica embarcada com
+									sensores de
+									monitoramento e mapeamento.
+								</JustificaItem>
+								<QtdeItem>5</QtdeItem>
+								<ValorIndItem>500</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Locação de três Veículos em UHE JIRAU 19/01/14 a
+									23/01/14
+								</NomeItem>
+								<JustificaItem>Viajem 03 para UHE Jirau, Porto Velho para testes
+									em
+									campo. Testes do protótipo da eletrônica embarcada com
+									sensores de
+									monitoramento e mapeamento.
+								</JustificaItem>
+								<QtdeItem>3</QtdeItem>
+								<ValorIndItem>1219,33333333333</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Frete dos equipamento em UHE JIRAU 19/01/14 a 23/01/14
+								</NomeItem>
+								<JustificaItem>Viajem 03 para UHE Jirau, Porto Velho para testes
+									em
+									campo. Testes do protótipo da eletrônica embarcada com
+									sensores de
+									monitoramento e mapeamento.
+								</JustificaItem>
+								<QtdeItem>1</QtdeItem>
+								<ValorIndItem>5334,65</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Passagens Aéreas de dois Veículos em UHE JIRAU
+									19/01/14
+									a
+									23/01/14
+								</NomeItem>
+								<JustificaItem>Viajem 03 para UHE Jirau, Porto Velho para testes
+									em
+									campo. Testes do protótipo da eletrônica embarcada com
+									sensores de
+									monitoramento e mapeamento.
+								</JustificaItem>
+								<QtdeItem>5</QtdeItem>
+								<ValorIndItem>2791,23</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Diárias Ref. Atividade em UHE JIRAU a 23/02/14 a
+									27/02/14
+								</NomeItem>
+								<JustificaItem>Viajem 04 para UHE Jirau, Porto Velho para testes
+									em
+									campo. Teste com o protótipo final submarino do robô ROSA.
+								</JustificaItem>
+								<QtdeItem>5</QtdeItem>
+								<ValorIndItem>500</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Locação de três Veículos em UHE JIRAU 23/02/14 a
+									27/02/14
+								</NomeItem>
+								<JustificaItem>Viajem 04 para UHE Jirau, Porto Velho para testes
+									em
+									campo. Teste com o protótipo final submarino do robô ROSA.
+								</JustificaItem>
+								<QtdeItem>3</QtdeItem>
+								<ValorIndItem>1219,33333333333</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Frete dos equipamento em UHE JIRAU 23/02/14 a 27/02/14
+								</NomeItem>
+								<JustificaItem>Viajem 04 para UHE Jirau, Porto Velho para testes
+									em
+									campo. Teste com o protótipo final submarino do robô ROSA.
+								</JustificaItem>
+								<QtdeItem>1</QtdeItem>
+								<ValorIndItem>6796,61</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Passagens Aéreas de dois Veículos em UHE JIRAU
+									23/02/14
+									a
+									27/02/14
+								</NomeItem>
+								<JustificaItem>Viajem 04 para UHE Jirau, Porto Velho para testes
+									em
+									campo. Teste com o protótipo final submarino do robô ROSA.
+								</JustificaItem>
+								<QtdeItem>5</QtdeItem>
+								<ValorIndItem>2791,23</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Frete dos robô submarino SeaBotix para UHE JIRAU
+									19/01/14
+									a 23/01/14
+								</NomeItem>
+								<JustificaItem>Viajem 04 para UHE Jirau, Porto Velho para testes
+									em
+									campo. Transporte do robô SeaBotix que foi emprestado ao
+									laboratório pela ESBR como plataforma de teste de sensores.
+								</JustificaItem>
+								<QtdeItem>1</QtdeItem>
+								<ValorIndItem>7131,22</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Remanejamento de passagens</NomeItem>
+								<JustificaItem>???????</JustificaItem>
+								<QtdeItem>1</QtdeItem>
+								<ValorIndItem>2743,99</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
 						</ItemDespesa>
+					</CustoCatContabil>
+					<CustoCatContabil>
 						<CategoriaContabil>ST</CategoriaContabil>
 						<ItemDespesa>
-							<NomeItem>Serviço de Software</NomeItem>
-							<JustificaItem>suporte e treinamento para a equipe do projeto;
-								análise, especificação e design do software a ser desenvolvido;
-								participação na implementação dos softwares para reconstrução 3D
-								por sonar; integração dos diferentes componentes de biblioteca
-								em
-								um único sistema; e acompanhamento dos testes em campo.
-							</JustificaItem>
-							<QtdeItem>1</QtdeItem>
-							<ValorIndItem>225780,76</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Serviço de Mecânica</NomeItem>
-							<JustificaItem>Serviço de consultoria intitulado CAD e
-								detalhamento
-								de componentes mecânicos para o projeto.
-							</JustificaItem>
-							<QtdeItem>1</QtdeItem>
-							<ValorIndItem>208123,41</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
+							<ItemDespesa>
+								<NomeItem>Serviço de Software</NomeItem>
+								<JustificaItem>suporte e treinamento para a equipe do projeto;
+									análise, especificação e design do software a ser desenvolvido;
+									participação na implementação dos softwares para reconstrução
+									3D
+									por sonar; integração dos diferentes componentes de
+									biblioteca
+									em
+									um único sistema; e acompanhamento dos testes em
+									campo.
+								</JustificaItem>
+								<QtdeItem>1</QtdeItem>
+								<ValorIndItem>225780,76</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Serviço de Mecânica</NomeItem>
+								<JustificaItem>Serviço de consultoria intitulado CAD e
+									detalhamento
+									de componentes mecânicos para o projeto.
+								</JustificaItem>
+								<QtdeItem>1</QtdeItem>
+								<ValorIndItem>208123,41</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
 						</ItemDespesa>
+					</CustoCatContabil>
+					<CustoCatContabil>
 						<CategoriaContabil>OU</CategoriaContabil>
 						<ItemDespesa>
-							<NomeItem>Taxa Administrativa 01</NomeItem>
-							<JustificaItem>Taxa de Administração da fundação COPPETEC (5%)
-								sobre parcela
-							</JustificaItem>
-							<QtdeItem>1</QtdeItem>
-							<ValorIndItem>86551,79</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Taxa de Mobilização</NomeItem>
-							<JustificaItem>Taxa de Mobilização de Infraestrutura
-							</JustificaItem>
-							<QtdeItem>1</QtdeItem>
-							<ValorIndItem>115200</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Imposto</NomeItem>
-							<JustificaItem>Imposto INSS</JustificaItem>
-							<QtdeItem>1</QtdeItem>
-							<ValorIndItem>39379,25</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem> Publicação no DOU</NomeItem>
-							<JustificaItem>Publicação no diário oficial da união
-							</JustificaItem>
-							<QtdeItem>1</QtdeItem>
-							<ValorIndItem>151,85</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Serviços de Importação ref. I-088 (Sonar)</NomeItem>
-							<JustificaItem>Despesas de importação do equipamentos
-								internacionais Sonar(despacho, transporte ..)
-							</JustificaItem>
-							<QtdeItem>1</QtdeItem>
-							<ValorIndItem>4604,59</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Seguro de Vida</NomeItem>
-							<JustificaItem>Seguro de vida para os pesquisadores como
-								obrigatório pelo contrato com a ESBR
-							</JustificaItem>
-							<QtdeItem>7</QtdeItem>
-							<ValorIndItem>63,754</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Instalação de Lona Fosca</NomeItem>
-							<JustificaItem>Infraestrutura do evento inaugural do projeto
-								realizado no Rio de Janeiro
-							</JustificaItem>
-							<QtdeItem>1</QtdeItem>
-							<ValorIndItem>1480</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Buffet para Evento Cooperação empresa ESBR e fundação
-								Coppetec
-							</NomeItem>
-							<JustificaItem>Buffet do evento inaugural do projeto realizado no
-								Rio de Janeiro
-							</JustificaItem>
-							<QtdeItem>1</QtdeItem>
-							<ValorIndItem>2010</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Cerimonialista do Evento Cooperação, ESBR e Fundação
-								Coppetec
-							</NomeItem>
-							<JustificaItem>Cerimonialista do evento inaugural do projeto
-								realizado no Rio de Janeiro
-							</JustificaItem>
-							<QtdeItem></QtdeItem>
-							<ValorIndItem>630,12</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Serviços de Importação ref. I-087 (Pan e Tilt)
-							</NomeItem>
-							<JustificaItem>Despesas de importação do equipamento
-								Internacional
-								Pan & Tilt (despacho, transporte ..)
-							</JustificaItem>
-							<QtdeItem></QtdeItem>
-							<ValorIndItem>5043,19</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Encargos</NomeItem>
-							<JustificaItem>Imposto </JustificaItem>
-							<QtdeItem></QtdeItem>
-							<ValorIndItem>77,88</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>INSS, REF. NF 100885 </NomeItem>
-							<JustificaItem>Imposto sobre nota</JustificaItem>
-							<QtdeItem></QtdeItem>
-							<ValorIndItem>14668,46</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Despesas acessórias Ref.I-139</NomeItem>
-							<JustificaItem>Despesas de importação do equipamentos
-								internacionais PC104 (despacho, transporte ..)
-							</JustificaItem>
-							<QtdeItem></QtdeItem>
-							<ValorIndItem>2992,57</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Animação vídeo Projeto Rosa</NomeItem>
-							<JustificaItem>Vídeo animação do conceito do robô ROSA
-							</JustificaItem>
-							<QtdeItem></QtdeItem>
-							<ValorIndItem>39999</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>IR da nota Ref. 2014/1001</NomeItem>
-							<JustificaItem>Imposto </JustificaItem>
-							<QtdeItem></QtdeItem>
-							<ValorIndItem>10,86</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>ISS da Nota 1112014</NomeItem>
-							<JustificaItem>Imposto sobre nota</JustificaItem>
-							<QtdeItem></QtdeItem>
-							<ValorIndItem>2968,29</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Despesa Adm. 2ª parcela</NomeItem>
-							<JustificaItem>Taxa de Administração da fundação COPPETEC (5%)
-								sobre parcela
-							</JustificaItem>
-							<QtdeItem></QtdeItem>
-							<ValorIndItem>34266,4</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Despesa Adm. 3ª parcela</NomeItem>
-							<JustificaItem>Taxa de Administração da fundação COPPETEC (5%)
-								sobre parcela
-							</JustificaItem>
-							<QtdeItem></QtdeItem>
-							<ValorIndItem>6934,1</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Serv. Gastronômico workshop</NomeItem>
-							<JustificaItem>Buffet no workshop de troca conhecimento em Jirau
-							</JustificaItem>
-							<QtdeItem></QtdeItem>
-							<ValorIndItem>2963,45</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Serviço de Filmagem promocional do projeto ROSA
-							</NomeItem>
-							<JustificaItem>Serviço de filmagem do workshop de troca de
-								conhecimento em Jirau e demonstração final do sistema do
-								projeto.
-							</JustificaItem>
-							<QtdeItem></QtdeItem>
-							<ValorIndItem>12226,5</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>ISS da nota 182 Pralinê</NomeItem>
-							<JustificaItem>Imposto sobre nota</JustificaItem>
-							<QtdeItem></QtdeItem>
-							<ValorIndItem>85,05</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>Serviços de Importação (Eletrônica ROV) </NomeItem>
-							<JustificaItem>Despesas de importação do equipamentos
-								internacionais Eletrônica para ROV transporte ..)
-							</JustificaItem>
-							<QtdeItem></QtdeItem>
-							<ValorIndItem>1187,51</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-							<NomeItem>ISS NOTA ATUA 85</NomeItem>
-							<JustificaItem>Imposto sobre nota</JustificaItem>
-							<QtdeItem></QtdeItem>
-							<ValorIndItem>643,5</ValorIndItem>
-							<TipoItem>N</TipoItem>
-							<ItemLabE>N</ItemLabE>
-							<ItemLabN>N</ItemLabN>
-						</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Taxa Administrativa 01</NomeItem>
+								<JustificaItem>Taxa de Administração da fundação COPPETEC (5%)
+									sobre parcela
+								</JustificaItem>
+								<QtdeItem>1</QtdeItem>
+								<ValorIndItem>86551,79</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Taxa de Mobilização</NomeItem>
+								<JustificaItem>Taxa de Mobilização de Infraestrutura
+								</JustificaItem>
+								<QtdeItem>1</QtdeItem>
+								<ValorIndItem>115200</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Imposto</NomeItem>
+								<JustificaItem>Imposto INSS</JustificaItem>
+								<QtdeItem>1</QtdeItem>
+								<ValorIndItem>39379,25</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem> Publicação no DOU</NomeItem>
+								<JustificaItem>Publicação no diário oficial da união
+								</JustificaItem>
+								<QtdeItem>1</QtdeItem>
+								<ValorIndItem>151,85</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Serviços de Importação ref. I-088 (Sonar)</NomeItem>
+								<JustificaItem>Despesas de importação do equipamentos
+									internacionais Sonar(despacho, transporte ..)
+								</JustificaItem>
+								<QtdeItem>1</QtdeItem>
+								<ValorIndItem>4604,59</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Seguro de Vida</NomeItem>
+								<JustificaItem>Seguro de vida para os pesquisadores como
+									obrigatório pelo contrato com a ESBR
+								</JustificaItem>
+								<QtdeItem>7</QtdeItem>
+								<ValorIndItem>63,754</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Instalação de Lona Fosca</NomeItem>
+								<JustificaItem>Infraestrutura do evento inaugural do projeto
+									realizado no Rio de Janeiro
+								</JustificaItem>
+								<QtdeItem>1</QtdeItem>
+								<ValorIndItem>1480</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Buffet para Evento Cooperação empresa ESBR e fundação
+									Coppetec
+								</NomeItem>
+								<JustificaItem>Buffet do evento inaugural do projeto realizado
+									no
+									Rio de Janeiro
+								</JustificaItem>
+								<QtdeItem>1</QtdeItem>
+								<ValorIndItem>2010</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Cerimonialista do Evento Cooperação, ESBR e Fundação
+									Coppetec
+								</NomeItem>
+								<JustificaItem>Cerimonialista do evento inaugural do projeto
+									realizado no Rio de Janeiro
+								</JustificaItem>
+								<QtdeItem></QtdeItem>
+								<ValorIndItem>630,12</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Serviços de Importação ref. I-087 (Pan e Tilt)
+								</NomeItem>
+								<JustificaItem>Despesas de importação do equipamento
+									Internacional
+									Pan & Tilt (despacho, transporte ..)
+								</JustificaItem>
+								<QtdeItem></QtdeItem>
+								<ValorIndItem>5043,19</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Encargos</NomeItem>
+								<JustificaItem>Imposto </JustificaItem>
+								<QtdeItem></QtdeItem>
+								<ValorIndItem>77,88</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>INSS, REF. NF 100885 </NomeItem>
+								<JustificaItem>Imposto sobre nota</JustificaItem>
+								<QtdeItem></QtdeItem>
+								<ValorIndItem>14668,46</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Despesas acessórias Ref.I-139</NomeItem>
+								<JustificaItem>Despesas de importação do equipamentos
+									internacionais PC104 (despacho, transporte ..)
+								</JustificaItem>
+								<QtdeItem></QtdeItem>
+								<ValorIndItem>2992,57</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Animação vídeo Projeto Rosa</NomeItem>
+								<JustificaItem>Vídeo animação do conceito do robô ROSA
+								</JustificaItem>
+								<QtdeItem></QtdeItem>
+								<ValorIndItem>39999</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>IR da nota Ref. 2014/1001</NomeItem>
+								<JustificaItem>Imposto </JustificaItem>
+								<QtdeItem></QtdeItem>
+								<ValorIndItem>10,86</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>ISS da Nota 1112014</NomeItem>
+								<JustificaItem>Imposto sobre nota</JustificaItem>
+								<QtdeItem></QtdeItem>
+								<ValorIndItem>2968,29</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Despesa Adm. 2ª parcela</NomeItem>
+								<JustificaItem>Taxa de Administração da fundação COPPETEC (5%)
+									sobre parcela
+								</JustificaItem>
+								<QtdeItem></QtdeItem>
+								<ValorIndItem>34266,4</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Despesa Adm. 3ª parcela</NomeItem>
+								<JustificaItem>Taxa de Administração da fundação COPPETEC (5%)
+									sobre parcela
+								</JustificaItem>
+								<QtdeItem></QtdeItem>
+								<ValorIndItem>6934,1</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Serv. Gastronômico workshop</NomeItem>
+								<JustificaItem>Buffet no workshop de troca conhecimento em Jirau
+								</JustificaItem>
+								<QtdeItem></QtdeItem>
+								<ValorIndItem>2963,45</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Serviço de Filmagem promocional do projeto ROSA
+								</NomeItem>
+								<JustificaItem>Serviço de filmagem do workshop de troca de
+									conhecimento em Jirau e demonstração final do sistema do
+									projeto.
+								</JustificaItem>
+								<QtdeItem></QtdeItem>
+								<ValorIndItem>12226,5</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>ISS da nota 182 Pralinê</NomeItem>
+								<JustificaItem>Imposto sobre nota</JustificaItem>
+								<QtdeItem></QtdeItem>
+								<ValorIndItem>85,05</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>Serviços de Importação (Eletrônica ROV) </NomeItem>
+								<JustificaItem>Despesas de importação do equipamentos
+									internacionais Eletrônica para ROV transporte ..)
+								</JustificaItem>
+								<QtdeItem></QtdeItem>
+								<ValorIndItem>1187,51</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
+							<ItemDespesa>
+								<NomeItem>ISS NOTA ATUA 85</NomeItem>
+								<JustificaItem>Imposto sobre nota</JustificaItem>
+								<QtdeItem></QtdeItem>
+								<ValorIndItem>643,5</ValorIndItem>
+								<TipoItem>N</TipoItem>
+								<ItemLabE>N</ItemLabE>
+								<ItemLabN>N</ItemLabN>
+							</ItemDespesa>
 					</CustoCatContabil>
 				</DestRecursosExec>
 			</DestRecursos>
