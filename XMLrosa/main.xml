@@ -118,15 +118,6 @@
 						<HhMbEqEmp>Moeda</HhMbEqEmp>
 						<MesMbEqEmp>Texto</MesMbEqEmp>
 						<HoraMesMbEqEmp>Texto</HoraMesMbEqEmp>
-
-
-						<NomeMbEqEmp>Texto</NomeMbEqEmp>
-						<CpfMbEqEmp>Número</CpfMbEqEmp>
-						<TitulacaoMbEqEmp>Código</TitulacaoMbEqEmp>
-						<FuncaoMbEqEmp>Código</FuncaoMbEqEmp>
-						<HhMbEqEmp>Moeda</HhMbEqEmp>
-						<MesMbEqEmp>Texto</MesMbEqEmp>
-						<HoraMesMbEqEmp>Texto</HoraMesMbEqEmp>
 						 
 
 					</EquipeEmpresa>
@@ -170,7 +161,9 @@
 						<MesMbEqExec>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</MesMbEqExec>
 						<HoraMesMbEqExec>16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16
 						</HoraMesMbEqExec>
+					</EquipeExec>
 
+					<EquipeExec>
 						<NomeMbEqExec>Gabriel Alcantara Costa Silva</NomeMbEqExec>
 						<BRMbEqExec>S</BRMbEqExec>
 						<DocMbEqExec>13675993779</DocMbEqExec>
@@ -180,7 +173,9 @@
 						<MesMbEqExec>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</MesMbEqExec>
 						<HoraMesMbEqExec>72,160,160,160,160,160,160,160,160,160,160,160,160,160,160,160
 						</HoraMesMbEqExec>
+					</EquipeExec>
 
+					<EquipeExec>
 						<NomeMbEqExec>Eduardo Elael de Melo Soares</NomeMbEqExec>
 						<BRMbEqExec>S</BRMbEqExec>
 						<DocMbEqExec>04528767708</DocMbEqExec>
@@ -190,7 +185,9 @@
 						<MesMbEqExec>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</MesMbEqExec>
 						<HoraMesMbEqExec>72,160,160,160,160,160,160,160,160,160,160,160,160,160,160,160
 						</HoraMesMbEqExec>
+					</EquipeExec>
 
+					<EquipeExec>
 						<NomeMbEqExec>Renan Salles de Freitas</NomeMbEqExec>
 						<BRMbEqExec>S</BRMbEqExec>
 						<DocMbEqExec>12932581724</DocMbEqExec>
@@ -200,7 +197,9 @@
 						<MesMbEqExec>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</MesMbEqExec>
 						<HoraMesMbEqExec>72,160,160,160,160,160,160,160,160,160,160,160,160,160,160,160
 						</HoraMesMbEqExec>
+					</EquipeExec>
 
+					<EquipeExec>
 						<NomeMbEqExec>Julia Ramos Campana</NomeMbEqExec>
 						<BRMbEqExec>S</BRMbEqExec>
 						<DocMbEqExec>10251769798</DocMbEqExec>
@@ -210,7 +209,9 @@
 						<MesMbEqExec>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</MesMbEqExec>
 						<HoraMesMbEqExec>72,160,160,160,160,160,160,160,160,160,160,160,160,160,160,160
 						</HoraMesMbEqExec>
+					</EquipeExec>
 
+					<EquipeExec>
 						<NomeMbEqExec>Alana Monteiro Lima</NomeMbEqExec>
 						<BRMbEqExec>S</BRMbEqExec>
 						<DocMbEqExec>14788121760</DocMbEqExec>
@@ -220,7 +221,9 @@
 						<MesMbEqExec>3,4,5,6,7,8,9,10,11,12,13,14,15,16</MesMbEqExec>
 						<HoraMesMbEqExec>160,160,160,160,160,160,160,160,160,160,160,160,160
 						</HoraMesMbEqExec>
+					</EquipeExec>
 
+					<EquipeExec>
 						<NomeMbEqExec>André Abido Figueiró</NomeMbEqExec>
 						<BRMbEqExec>S</BRMbEqExec>
 						<DocMbEqExec>12420705750</DocMbEqExec>
@@ -230,7 +233,9 @@
 						<MesMbEqExec>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</MesMbEqExec>
 						<HoraMesMbEqExec>16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16
 						</HoraMesMbEqExec>
+					</EquipeExec>
 
+					<EquipeExec>
 						<NomeMbEqExec>Alessandro Jacoud Peixoto</NomeMbEqExec>
 						<BRMbEqExec>S</BRMbEqExec>
 						<DocMbEqExec>02850368741</DocMbEqExec>
@@ -240,9 +245,10 @@
 						<MesMbEqExec>2,3,4,5,6,7,8,9,11,12,13,14,15,16</MesMbEqExec>
 						<HoraMesMbEqExec>44,44,44,44,44,44,44,44,44,44,44,44,44,44
 						</HoraMesMbEqExec>
-
-
 					</EquipeExec>
+
+
+				</EquipeExec>
 				</Equipe>
 			</Executora>
 		</Executoras>
@@ -251,132 +257,185 @@
 
 
 	<PD_Etapas>
-		<EtapaN>1</EtapaN>
-		<Atividades>Viajem Inaugural: Assinatura do termo inaugural do projeto
-			e análise em campo da problemática
-		</Atividades>
-		<MesExecEtapa>1</MesExecEtapa>
-		<EtapaN>2</EtapaN>
-		<Atividades>Requisito: Nesta etapa os requisitos do sistema serao
-			especificados através de reunioes com a ESBR e análise em campo da
-			operacao.
-		</Atividades>
-		<MesExecEtapa>1,2</MesExecEtapa>
-		<EtapaN>3</EtapaN>
-		<Atividades> Contextualização: Levantamento das tecnologias existentes
-			para monitoramento e mapeamento de operacoes de Stoplog
-		</Atividades>
-		<MesExecEtapa>1,2</MesExecEtapa>
-		<EtapaN>3</EtapaN>
-		<Atividades>Definição do conceito: Definição de uma solução de um robô
-			capaz de operar no ambiente e realizar tarefas de coating
-		</Atividades>
-		<MesExecEtapa>2,3</MesExecEtapa>
-		<EtapaN>4</EtapaN>
-		<Atividades>Análise do Usuário: Análise dos operadores de pórtico
-			rolante que serao os usuários finais do sistema de monitoramento.
-		</Atividades>
-		<MesExecEtapa>3,4</MesExecEtapa>
-		<EtapaN>5</EtapaN>
-		<Atividades> Estudo dos fornecedores: Definição dos fornecedores de
-			equipamento
-		</Atividades>
-		<MesExecEtapa>4</MesExecEtapa>
-		<EtapaN>6</EtapaN>
-		<Atividades>Design do Sistema: Processo de definicao da arquitetura,
-			componentes, mó´dulos e interfaces que satisfazem os requisitos do
-			sistema.
-		</Atividades>
-		<MesExecEtapa>5,6,7</MesExecEtapa>
-		<EtapaN>7</EtapaN>
-		<Atividades> Manufatura e Aquisicao : Compra e construc¸ao dos
-			componentes definidoss durante a fase de design do sistema. O
-			resultado serão as partes que integradas formarão o robô.
-		</Atividades>
-		<MesExecEtapa>5,6,7,8</MesExecEtapa>
-		<EtapaN>8</EtapaN>
-		<Atividades>Octomap: Integracao da biblioteca de acumulacao
-			volumétrica ao software de robótica do projeto
-		</Atividades>
-		<MesExecEtapa>5,6,7,8</MesExecEtapa>
-		<EtapaN>9</EtapaN>
-		<Atividades>Protótipo de Interface: Desenvolvimento de tela
-			sinterativas simples, concentrando apenas no desenvolvimento da parte
-			visual da interface.
-		</Atividades>
-		<MesExecEtapa>5,6,7,8</MesExecEtapa>
-		<EtapaN>11</EtapaN>
-		<Atividades>Drivers: Protocolos de comunicacao entre o computador
-			embarcado e os sensores comprados
-		</Atividades>
-		<MesExecEtapa>6,7,8,9</MesExecEtapa>
-		<EtapaN>12</EtapaN>
-		<Atividades>Viajem Jirau - Teste de Sensor: Viagem a Jirau para teste
-			simples dos sensores adiquiridos
-		</Atividades>
-		<MesExecEtapa>8</MesExecEtapa>
-		<EtapaN>13</EtapaN>
-		<Atividades>Modelagem do Sonar Profiling: Modelagem da resposta da
-			potência do ECO do sonar no mapa de acumulacao volumétrica Octomap.
-		</Atividades>
-		<MesExecEtapa>9,10,11</MesExecEtapa>
-		<EtapaN>14</EtapaN>
-		<Atividades> Reconstrucao 3D Simples: Vizualisacao 3D de uma
-			acumulacao volumétrica simples (cubo) em Octomap
-		</Atividades>
-		<MesExecEtapa>9</MesExecEtapa>
-		<EtapaN>14</EtapaN>
-		<Atividades>Integracao Eletrônica: Montagem da eletrônica embarcada
-		</Atividades>
-		<MesExecEtapa>9,10,11,12</MesExecEtapa>
-		<EtapaN>15</EtapaN>
-		<Atividades>Interface de Usuario: Implementacao da interface de
-			usuário (GUI) do robo, aplicativo para applet Android
-		</Atividades>
-		<MesExecEtapa>9,10,11,12</MesExecEtapa>
-		<EtapaN>16</EtapaN>
-		<Atividades>Localizacao: Algoritmo de localizacao das medicoes do
-			sonar com relacao ao vao do Stoplog
-		</Atividades>
-		<MesExecEtapa>10,11</MesExecEtapa>
-		<EtapaN>17</EtapaN>
-		<Atividades>Modelagem de Sonar Imaging: Modelagem da resposta da
-			potência do ECO de sonar tipo imaging no mapa de acumulacao
-			volumétrica Octomap.
-		</Atividades>
-		<MesExecEtapa>12,13,14</MesExecEtapa>
-		<EtapaN>18</EtapaN>
-		<Atividades> Filtro de Partícula: Implementacao do filtro
-			probabilítico para filtrar as diverss medidas de sonares do meio com
-			relacao a sua distribuicao de probabilidade.
-		</Atividades>
-		<MesExecEtapa>12,13,14</MesExecEtapa>
-		<EtapaN>19</EtapaN>
-		<Atividades>Integracao Sistema: Integracao electro-mecanica e de
-			software do robô ROSA
-		</Atividades>
-		<MesExecEtapa>12,13</MesExecEtapa>
-		<EtapaN>20</EtapaN>
-		<Atividades>Viajem Jirau - Teste de Sistema: Testes do protótipo em
-			Jirau
-		</Atividades>
-		<MesExecEtapa>13</MesExecEtapa>
-		<EtapaN>21</EtapaN>
-		<Atividades>Tuning: Ajustes finos dos resultados da pesquisa baseado
-			nos testes de campo
-		</Atividades>
-		<MesExecEtapa>15,16</MesExecEtapa>
-		<EtapaN>22</EtapaN>
-		<Atividades>Viajem Jirau - Teste de Sistema: Viajem a Jirau para
-			testes do sistema
-		</Atividades>
-		<MesExecEtapa>15</MesExecEtapa>
-		<EtapaN>23</EtapaN>
-		<Atividades>Workshop Troca Conhecimento: Viagem a Jirau para treinar a
-			equipe na utilizacao do protótipo e realizacao do workshop de
-			transferencia de conhecimento.
-		</Atividades>
-		<MesExecEtapa>16</MesExecEtapa>
+		<Etapa>
+			<EtapaN>1</EtapaN>
+			<Atividades>Viajem Inaugural: Assinatura do termo inaugural do
+				projeto
+				e análise em campo da problemática
+			</Atividades>
+			<MesExecEtapa>1</MesExecEtapa>
+		</Etapa>
+		<Etapa>
+			<EtapaN>2</EtapaN>
+			<Atividades>Requisito: Nesta etapa os requisitos do sistema serao
+				especificados através de reunioes com a ESBR e análise em campo da
+				operacao.
+			</Atividades>
+			<MesExecEtapa>1,2</MesExecEtapa>
+		</Etapa>
+		<Etapa>
+			<EtapaN>3</EtapaN>
+			<Atividades> Contextualização: Levantamento das tecnologias
+				existentes
+				para monitoramento e mapeamento de operacoes de Stoplog
+			</Atividades>
+			<MesExecEtapa>1,2</MesExecEtapa>
+		</Etapa>
+		<Etapa>
+			<EtapaN>3</EtapaN>
+			<Atividades>Definição do conceito: Definição de uma solução de um
+				robô
+				capaz de operar no ambiente e realizar tarefas de coating
+			</Atividades>
+			<MesExecEtapa>2,3</MesExecEtapa>
+		</Etapa>
+		<Etapa>
+			<EtapaN>4</EtapaN>
+			<Atividades>Análise do Usuário: Análise dos operadores de pórtico
+				rolante que serao os usuários finais do sistema de monitoramento.
+			</Atividades>
+			<MesExecEtapa>3,4</MesExecEtapa>
+		</Etapa>
+		<Etapa>
+			<EtapaN>5</EtapaN>
+			<Atividades> Estudo dos fornecedores: Definição dos fornecedores de
+				equipamento
+			</Atividades>
+			<MesExecEtapa>4</MesExecEtapa>
+		</Etapa>
+		<Etapa>
+			<EtapaN>6</EtapaN>
+			<Atividades>Design do Sistema: Processo de definicao da arquitetura,
+				componentes, mó´dulos e interfaces que satisfazem os requisitos do
+				sistema.
+			</Atividades>
+			<MesExecEtapa>5,6,7</MesExecEtapa>
+		</Etapa>
+		<Etapa>
+			<EtapaN>7</EtapaN>
+			<Atividades> Manufatura e Aquisicao : Compra e construc¸ao dos
+				componentes definidoss durante a fase de design do sistema. O
+				resultado serão as partes que integradas formarão o robô.
+			</Atividades>
+			<MesExecEtapa>5,6,7,8</MesExecEtapa>
+		</Etapa>
+		<Etapa>
+			<EtapaN>8</EtapaN>
+			<Atividades>Octomap: Integracao da biblioteca de acumulacao
+				volumétrica ao software de robótica do projeto
+			</Atividades>
+			<MesExecEtapa>5,6,7,8</MesExecEtapa>
+		</Etapa>
+		<Etapa>
+			<EtapaN>9</EtapaN>
+			<Atividades>Protótipo de Interface: Desenvolvimento de tela
+				sinterativas simples, concentrando apenas no desenvolvimento da
+				parte
+				visual da interface.
+			</Atividades>
+			<MesExecEtapa>5,6,7,8</MesExecEtapa>
+		</Etapa>
+		<Etapa>
+			<EtapaN>11</EtapaN>
+			<Atividades>Drivers: Protocolos de comunicacao entre o computador
+				embarcado e os sensores comprados
+			</Atividades>
+			<MesExecEtapa>6,7,8,9</MesExecEtapa>
+		</Etapa>
+		<Etapa>
+			<EtapaN>12</EtapaN>
+			<Atividades>Viajem Jirau - Teste de Sensor: Viagem a Jirau para teste
+				simples dos sensores adiquiridos
+			</Atividades>
+			<MesExecEtapa>8</MesExecEtapa>
+		</Etapa>
+		<Etapa>
+			<EtapaN>13</EtapaN>
+			<Atividades>Modelagem do Sonar Profiling: Modelagem da resposta da
+				potência do ECO do sonar no mapa de acumulacao volumétrica Octomap.
+			</Atividades>
+			<MesExecEtapa>9,10,11</MesExecEtapa>
+		</Etapa>
+		<Etapa>
+			<EtapaN>14</EtapaN>
+			<Atividades> Reconstrucao 3D Simples: Vizualisacao 3D de uma
+				acumulacao volumétrica simples (cubo) em Octomap
+			</Atividades>
+			<MesExecEtapa>9</MesExecEtapa>
+		</Etapa>
+		<Etapa>
+			<EtapaN>14</EtapaN>
+			<Atividades>Integracao Eletrônica: Montagem da eletrônica embarcada
+			</Atividades>
+			<MesExecEtapa>9,10,11,12</MesExecEtapa>
+		</Etapa>
+		<Etapa>
+			<EtapaN>15</EtapaN>
+			<Atividades>Interface de Usuario: Implementacao da interface de
+				usuário (GUI) do robo, aplicativo para applet Android
+			</Atividades>
+			<MesExecEtapa>9,10,11,12</MesExecEtapa>
+		</Etapa>
+		<Etapa>
+			<EtapaN>16</EtapaN>
+			<Atividades>Localizacao: Algoritmo de localizacao das medicoes do
+				sonar com relacao ao vao do Stoplog
+			</Atividades>
+			<MesExecEtapa>10,11</MesExecEtapa>
+		</Etapa>
+		<Etapa>
+			<EtapaN>17</EtapaN>
+			<Atividades>Modelagem de Sonar Imaging: Modelagem da resposta da
+				potência do ECO de sonar tipo imaging no mapa de acumulacao
+				volumétrica Octomap.
+			</Atividades>
+			<MesExecEtapa>12,13,14</MesExecEtapa>
+		</Etapa>
+		<Etapa>
+			<EtapaN>18</EtapaN>
+			<Atividades> Filtro de Partícula: Implementacao do filtro
+				probabilítico para filtrar as diverss medidas de sonares do meio com
+				relacao a sua distribuicao de probabilidade.
+			</Atividades>
+			<MesExecEtapa>12,13,14</MesExecEtapa>
+		</Etapa>
+		<Etapa>
+			<EtapaN>19</EtapaN>
+			<Atividades>Integracao Sistema: Integracao electro-mecanica e de
+				software do robô ROSA
+			</Atividades>
+			<MesExecEtapa>12,13</MesExecEtapa>
+		</Etapa>
+		<Etapa>
+			<EtapaN>20</EtapaN>
+			<Atividades>Viajem Jirau - Teste de Sistema: Testes do protótipo em
+				Jirau
+			</Atividades>
+			<MesExecEtapa>13</MesExecEtapa>
+		</Etapa>
+		<Etapa>
+			<EtapaN>21</EtapaN>
+			<Atividades>Tuning: Ajustes finos dos resultados da pesquisa baseado
+				nos testes de campo
+			</Atividades>
+			<MesExecEtapa>15,16</MesExecEtapa>
+		</Etapa>
+		<Etapa>
+			<EtapaN>22</EtapaN>
+			<Atividades>Viajem Jirau - Teste de Sistema: Viajem a Jirau para
+				testes do sistema
+			</Atividades>
+			<MesExecEtapa>15</MesExecEtapa>
+		</Etapa>
+		<Etapa>
+			<EtapaN>23</EtapaN>
+			<Atividades>Workshop Troca Conhecimento: Viagem a Jirau para treinar
+				a
+				equipe na utilizacao do protótipo e realizacao do workshop de
+				transferencia de conhecimento.
+			</Atividades>
+			<MesExecEtapa>16</MesExecEtapa>
+		</Etapa>
 
 	</PD_Etapas>
 
@@ -395,8 +454,10 @@
 							<JustificaItem>As baterias serão utilizadas dentro da eletrônica
 								embarcada, como fonte de alimentação alternativa para os
 								diversos
-								dispositivos do projeto: sensores indutivos, sonares, sensores de
-								inclinação e a eletrônica. O carregador é necessário caso a
+								dispositivos do projeto: sensores indutivos, sonares,
+								sensores de
+								inclinação e a eletrônica. O carregador é necessário
+								caso a
 								bateria descarregue durante os dias de teste.
 							</JustificaItem>
 							<QtdeItem>2</QtdeItem>
@@ -408,8 +469,10 @@
 							<JustificaItem>As baterias serão utilizadas dentro da eletrônica
 								embarcada, como fonte de alimentação alternativa para os
 								diversos
-								dispositivos do projeto: sensores indutivos, sonares, sensores de
-								inclinação e a eletrônica. O carregador é necessário caso a
+								dispositivos do projeto: sensores indutivos, sonares,
+								sensores de
+								inclinação e a eletrônica. O carregador é necessário
+								caso a
 								bateria descarregue durante os dias de teste.
 							</JustificaItem>
 							<QtdeItem>1</QtdeItem>
@@ -420,7 +483,8 @@
 							<NomeItem>MULTICABOS 12x24 MPAS 40m</NomeItem>
 							<JustificaItem>Cabo de 24 vias e 40 metros utilizado como
 								umbilical
-								de teste. Terá saída para sensores indutivos, sonar, módulo
+								de teste. Terá saída para sensores indutivos, sonar,
+								módulo
 								Ethernet, VCC e GND
 							</JustificaItem>
 							<QtdeItem>40</QtdeItem>
@@ -480,11 +544,15 @@
 							<JustificaItem>Os componentes são necessários para testes da
 								eletrônica. Os reguladores são necessários para converter
 								voltagem
-								de alimentação até o nível de operação 3.3V e 5V, capacitores são
-								usados para filtros de alguns dispositivos analógicos, barra
-								sindal possibilitam teste rápido de conexões sem a necessidade
+								de alimentação até o nível de operação 3.3V e 5V,
+								capacitores são
+								usados para filtros de alguns dispositivos
+								analógicos, barra
+								sindal possibilitam teste rápido de conexões
+								sem a necessidade
 								de
-								solda e as barras de pino são utilizadas na protoboard ou placa
+								solda e as barras de pino são utilizadas na
+								protoboard ou placa
 								customizada para plugs de baixa corrente
 							</JustificaItem>
 							<QtdeItem>5</QtdeItem>
@@ -496,11 +564,15 @@
 							<JustificaItem>Os componentes são necessários para testes da
 								eletrônica. Os reguladores são necessários para converter
 								voltagem
-								de alimentação até o nível de operação 3.3V e 5V, capacitores são
-								usados para filtros de alguns dispositivos analógicos, barra
-								sindal possibilitam teste rápido de conexões sem a necessidade
+								de alimentação até o nível de operação 3.3V e 5V,
+								capacitores são
+								usados para filtros de alguns dispositivos
+								analógicos, barra
+								sindal possibilitam teste rápido de conexões
+								sem a necessidade
 								de
-								solda e as barras de pino são utilizadas na protoboard ou placa
+								solda e as barras de pino são utilizadas na
+								protoboard ou placa
 								customizada para plugs de baixa corrente
 							</JustificaItem>
 							<QtdeItem>10</QtdeItem>
@@ -512,11 +584,15 @@
 							<JustificaItem>Os componentes são necessários para testes da
 								eletrônica. Os reguladores são necessários para converter
 								voltagem
-								de alimentação até o nível de operação 3.3V e 5V, capacitores são
-								usados para filtros de alguns dispositivos analógicos, barra
-								sindal possibilitam teste rápido de conexões sem a necessidade
+								de alimentação até o nível de operação 3.3V e 5V,
+								capacitores são
+								usados para filtros de alguns dispositivos
+								analógicos, barra
+								sindal possibilitam teste rápido de conexões
+								sem a necessidade
 								de
-								solda e as barras de pino são utilizadas na protoboard ou placa
+								solda e as barras de pino são utilizadas na
+								protoboard ou placa
 								customizada para plugs de baixa corrente
 							</JustificaItem>
 							<QtdeItem>2</QtdeItem>
@@ -528,11 +604,15 @@
 							<JustificaItem>Os componentes são necessários para testes da
 								eletrônica. Os reguladores são necessários para converter
 								voltagem
-								de alimentação até o nível de operação 3.3V e 5V, capacitores são
-								usados para filtros de alguns dispositivos analógicos, barra
-								sindal possibilitam teste rápido de conexões sem a necessidade
+								de alimentação até o nível de operação 3.3V e 5V,
+								capacitores são
+								usados para filtros de alguns dispositivos
+								analógicos, barra
+								sindal possibilitam teste rápido de conexões
+								sem a necessidade
 								de
-								solda e as barras de pino são utilizadas na protoboard ou placa
+								solda e as barras de pino são utilizadas na
+								protoboard ou placa
 								customizada para plugs de baixa corrente
 							</JustificaItem>
 							<QtdeItem>2</QtdeItem>
@@ -730,7 +810,8 @@
 							<NomeItem>KIT SUPRENS AÇO INOX</NomeItem>
 							<JustificaItem>O Kit Suprens Aço Inox contem abraçadeiras
 								metálicas
-								responsáveis pela sustentação da eletrônica embarcada e os
+								responsáveis pela sustentação da eletrônica embarcada e
+								os
 								dispositivos na viga pescadora.
 							</JustificaItem>
 							<QtdeItem>2</QtdeItem>
@@ -790,8 +871,10 @@
 							<NomeItem>Profiler Super Seaking e Connector Straight </NomeItem>
 							<JustificaItem>O Sonar será utilizado para realizar o mapeamento
 								3D
-								do trilho do Stoplog. O mapeamento permite que o operador observe
-								se existe ou não detritos no trilho que impossibilitariam o
+								do trilho do Stoplog. O mapeamento permite que o operador
+								observe
+								se existe ou não detritos no trilho que impossibilitariam
+								o
 								posicionamento correto do Stoplog para a vedação.
 							</JustificaItem>
 							<QtdeItem>1</QtdeItem>
@@ -924,7 +1007,8 @@
 							<NomeItem>Case de alumínio da Eletrônica </NomeItem>
 							<JustificaItem>Case de alumínio submersível até 30m de
 								profundidade
-								para o primeiro protótipo da eletrônica construído no laboratório
+								para o primeiro protótipo da eletrônica construído
+								no laboratório
 							</JustificaItem>
 							<QtdeItem></QtdeItem>
 							<ValorIndItem>9570</ValorIndItem>
@@ -937,7 +1021,8 @@
 							<NomeItem>Diárias Ref. UHE JIRAU 02 a 06/06/2014</NomeItem>
 							<JustificaItem>Viajem 01 para UHE Jirau, Porto Velho para testes
 								em
-								campo. Testes dos sensores de monitoramento, indutivo, encoder e
+								campo. Testes dos sensores de monitoramento, indutivo, encoder
+								e
 								inclinômetro.
 							</JustificaItem>
 							<QtdeItem>5</QtdeItem>
@@ -949,7 +1034,8 @@
 							</NomeItem>
 							<JustificaItem>Viajem 01 para UHE Jirau, Porto Velho para testes
 								em
-								campo. Testes dos sensores de monitoramento, indutivo, encoder e
+								campo. Testes dos sensores de monitoramento, indutivo, encoder
+								e
 								inclinômetro.
 							</JustificaItem>
 							<QtdeItem>5</QtdeItem>
@@ -961,7 +1047,8 @@
 							</NomeItem>
 							<JustificaItem>Viajem 01 para UHE Jirau, Porto Velho para testes
 								em
-								campo. Testes dos sensores de monitoramento, indutivo, encoder e
+								campo. Testes dos sensores de monitoramento, indutivo, encoder
+								e
 								inclinômetro.
 							</JustificaItem>
 							<QtdeItem>2</QtdeItem>
@@ -1019,7 +1106,8 @@
 							</NomeItem>
 							<JustificaItem>Viajem 03 para UHE Jirau, Porto Velho para testes
 								em
-								campo. Testes do protótipo da eletrônica embarcada com sensores de
+								campo. Testes do protótipo da eletrônica embarcada com
+								sensores de
 								monitoramento e mapeamento.
 							</JustificaItem>
 							<QtdeItem>5</QtdeItem>
@@ -1032,7 +1120,8 @@
 							</NomeItem>
 							<JustificaItem>Viajem 03 para UHE Jirau, Porto Velho para testes
 								em
-								campo. Testes do protótipo da eletrônica embarcada com sensores de
+								campo. Testes do protótipo da eletrônica embarcada com
+								sensores de
 								monitoramento e mapeamento.
 							</JustificaItem>
 							<QtdeItem>3</QtdeItem>
@@ -1044,7 +1133,8 @@
 							</NomeItem>
 							<JustificaItem>Viajem 03 para UHE Jirau, Porto Velho para testes
 								em
-								campo. Testes do protótipo da eletrônica embarcada com sensores de
+								campo. Testes do protótipo da eletrônica embarcada com
+								sensores de
 								monitoramento e mapeamento.
 							</JustificaItem>
 							<QtdeItem>1</QtdeItem>
@@ -1058,7 +1148,8 @@
 							</NomeItem>
 							<JustificaItem>Viajem 03 para UHE Jirau, Porto Velho para testes
 								em
-								campo. Testes do protótipo da eletrônica embarcada com sensores de
+								campo. Testes do protótipo da eletrônica embarcada com
+								sensores de
 								monitoramento e mapeamento.
 							</JustificaItem>
 							<QtdeItem>5</QtdeItem>
@@ -1249,7 +1340,8 @@
 							</NomeItem>
 							<JustificaItem>Despesas de importação do equipamento
 								Internacional
-								Pan & Tilt (despacho, transporte ..) </JustificaItem>
+								Pan & Tilt (despacho, transporte ..)
+							</JustificaItem>
 							<QtdeItem></QtdeItem>
 							<ValorIndItem>5043,19</ValorIndItem>
 							<TipoItem>N</TipoItem>
