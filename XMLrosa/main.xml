@@ -1688,7 +1688,36 @@
 	<PD_Resultados>
 
 		<PD_ResultadosCP>
-			...
+			<IdCP>
+				<TipoCP>ME</TipoCP>
+				<ConclusaoCP>N</ConclusaoCP>
+				<DataCP></DataCP>
+				<DocMmbEqCP>12420705750</DocMmbEqCP>
+				<CNPJInstCP>33663683000116</CNPJInstCP>
+				<AreaCP>Mestrado Engenharia Elétrica</AreaCP>
+				<TituloCP></TituloCP>
+				<ArquivoPDF></ArquivoPDF>
+			</IdCP>
+			<IdCP>
+				<TipoCP>ME</TipoCP>
+				<ConclusaoCP></ConclusaoCP>
+				<DataCP></DataCP>
+				<DocMmbEqCP></DocMmbEqCP>
+				<CNPJInstCP>33663683000116</CNPJInstCP>
+				<AreaCP>Mestrado Engenharia Elétrica</AreaCP>
+				<TituloCP></TituloCP>
+				<ArquivoPDF></ArquivoPDF>
+			</IdCP>
+			<IdCP>
+				<TipoCP>ME</TipoCP>
+				<ConclusaoCP></ConclusaoCP>
+				<DataCP></DataCP>
+				<DocMmbEqCP></DocMmbEqCP>
+				<CNPJInstCP>33663683000116</CNPJInstCP>
+				<AreaCP>Mestrado Engenharia Elétrica</AreaCP>
+				<TituloCP></TituloCP>
+				<ArquivoPDF></ArquivoPDF>
+			</IdCP>
 		</PD_ResultadosCP>
 
 		<PD_ResultadosCT>
