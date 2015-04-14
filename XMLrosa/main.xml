@@ -1721,15 +1721,57 @@
 		</PD_ResultadosCP>
 
 		<PD_ResultadosCT>
-			...
 		</PD_ResultadosCT>
 
-		<PD_ResultadosSA>
-			...
+		<PD_ResultadosSA> <!-- '<IdSA> ... </IdSA>', deverá ser repetido, sequencialmente, de modo 
+				a apresentar os QUATRO indicadores, conforme Tabela 34. -->
+			<IdSA>
+				<TipoISA>ISA4</TipoISA>
+				<PossibISA>S</PossibISA>
+				<TxtISA>
+					O robo ROSA reduz em até 75% o número de mergulhos interventivos
+					necessários em operacoes de Stoplog. Mergulhos interventivos está
+					entre as profissoes mais perigosas, com taxa de mortalidade
+					significativa.
+				</TxrISA>
+			</IdSA>
+			<IdSA>
+				<TipoISA>ISA3</TipoISA>
+				<PossibISA>S</PossibISA>
+				<TxtISA>
+					Comercializacao de robôs para monitoramento e mapeamento de
+					operacoes de Stoplog.
+				</TxrISA>
+			</IdSA>
 		</PD_ResultadosSA>
 
 		<PD_ResultadosIE>
-			...
+			<IdIE>
+				<TipoIE>EE2</TipoIE>
+				<TxtBenefIE>O sistema de monitoramento e mapeamento reduz as falhas
+					de operacao de Stoplogs. Em Jirau, durante um período de dois
+					anos, os problemas de operação com stoplogs resultaram em uma
+					perda de disponibilidade de produção de 37 dias (equivalente a
+					66.442,14MWh)
+				</TxtBenefIE>
+				<UnidBenefIE>MWh</UnidBenefIE>
+				<BaseBenefIE>186,00</BaseBenefIE>
+				<PerBenefIE>100</PerBenefIE>
+				<VlrBenefIE>12.358.238,04</VlrBenefIE>
+			</IdIE>
+
+			<IdIE>
+				<TipoIE>PR1</TipoIE>
+				<TxtBenefIE>Reducao de mergulhos interventivos. Ao longo do período
+					de 2 anosem Jirau foram necessários 25 dias de mergulhos devidoa
+					erros de operacao de Stoplog. O ROSA teria reduzido em 18 dias o
+					número de mergulhos
+				</TxtBenefIE>
+				<UnidBenefI>dias</UnidBenefIE>
+				<BaseBenefIE>35.000</BaseBenefIE>
+				<PerBenefIE>100</PerBenefIE>
+				<VlrBenefIE>630.000,00</VlrBenefIE>
+			</IdIE>
 		</PD_ResultadosIE>
 
 	</PD_Resultados>
